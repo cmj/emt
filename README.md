@@ -47,4 +47,5 @@ Elon Musk friends tracker.
 + 2024-04-26 11:00-12:00 PDT (12:00 PM) @johanknorberg (Johan Norberg)
 + 2024-04-26 13:00-14:00 PDT (02:00 PM) @tszzl (roon)
 + 2024-04-27 18:00-19:00 PDT (07:00 PM) @visegrad24 (Visegrád 24)
++ 2024-04-29 12:00-13:00 PDT @Caitlyn_Jenner (Caitlyn Jenner)
 ```
