@@ -67,4 +67,6 @@ Elon Musk friends tracker.
 - 2024-05-08 02:00-03:00 PDT @telmudic (Tel)
 + 2024-05-10 19:00-20:00 PDT @_akhaliq (AK)
 + 2024-05-14 20:00-21:00 PDT @RickRieder (Rick Rieder)
++ 2024-05-18 23:00-00:00 PDT @teslaenergy (Tesla Energy)
++ 2024-05-19 03:00-04:00 PDT @geertwilderspvv (Geert Wilders)
 ```
