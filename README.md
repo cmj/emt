@@ -1,4 +1,4 @@
 # emt
 Elon Musk friends tracker.
 
-https://github.com/cmj/emt/blob/f8ff4b6efb28a98044c73fa907e22bed7cde008a/friends.diff#L1-L50
+https://github.com/cmj/emt/blob/7b12cc964012dee24eb69672ead6a56870ee7cba/friends.diff#L1-L50
