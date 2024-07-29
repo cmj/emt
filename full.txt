@@ -177,7 +177,7 @@
 @farzyness (Farzad) - Father. Husband. Troll.
 @fasc1nate (Fascinating) - Posting interesting science, gadgets, history, art, and more. Subscribe for in-depth posts. As an Amazon Associate I earn from qualifying purchases.
 @fchollet (François Chollet) - Deep learning @google. Creator of Keras. Author of 'Deep Learning with Python'. Co-founder @arcprize. Opinions are my own.
-@fentasyl (~~datahazard~~) - ~~ Stats ~~ Civil Rights ~~ Victim Advocate ~~                ~~ Critically acclaimed as a "user with a check mark" - Washington Post, July 2023
+@fentasyl (~~datahazard~~) - ~~ Stats ~~ Civil Rights ~~ Victim Advocate ~~    ~~ ~~ ~~  ~~ Wallets:
 @fermatslibrary (Fermat's Library) - A platform for illuminating academic papers. We annotate and share a paper every week. Save, annotate and share papers with anyone: https://t.co/0o2Pls3jmo
 @Fidias0 (Fidias) - member of the European Parliament 🇪🇺
 @freddiesayers (Freddie Sayers) - Editor-in-Chief @UnHerd, CEO UnHerd Ventures, Fmr Editor-in-Chief @YouGov, founder @PoliticsHome. freddie@unherd.com
@@ -194,7 +194,7 @@
 @gdb (Greg Brockman) - President & Co-Founder @OpenAI
 @geekwire (GeekWire) - Breaking news and analysis on Amazon, Microsoft, Pacific Northwest startups, health tech, geek life, more. Subscribe to our newsletter: https://t.co/T0ImNTk2lc
 @geoffreyhinton (Geoffrey Hinton) - deep learning
-@Gfilche (Gali) - schemer, foodie, HyperChange, $TSLA shareholder, vc @HyperGuap, sitcom @2vcbros
+@Gfilche (Gali) - $TSLA shareholder since 2011. vc @HyperGuap. sitcom @2vcbros #schemin
 @ggreenwald (Glenn Greenwald) - Journalist; Author; Host, @SystemUpdate_; Columnist, @Folha; Founder: @TheInterceptBr; Co-Founder: @theintercept, @abrigo_hope, @FreedomofPress, @idm_org. Vegan
 @ghiblipicture (Studio Ghibli Pictures) - Daily Studio Ghibli Pictures and GIFs 📸 | All credits to @GhibliUSA © | Parody Account
 @gigadgets_ (GiGadgets) - We cover the latest, the weirdest gadgets and tech. Visit us https://t.co/28buAoQw3m For PR requests please contact pr@ https://t.co/28buAoQw3m
@@ -595,6 +595,7 @@
 @TIME (TIME) - News and current events from around the globe. Since 1923. Subscribe: https://t.co/yT0dueLEm0
 @TimSweeneyEpic (Tim Sweeney) - Epic Games founder and CEO
 @tim_zaman (Tim Zaman) - AI at Google DeepMind. Previously Tesla, X/Twitter (head of AI Infra), NVIDIA. callsign PD4TA
+@tingchenai (Ting Chen) - Bump up intelligence in all bit streams @xai. Previous @GoogleDeepmind, @GoogleBrain.
 @tobi (tobi lutke) - @Shopify CEO by day, Dad in evening, hacker at night. Aspiring comprehensivist. (tweets auto delete eventually) retweet=noteworthy share, not endorsement
 @TobyPhln (Toby Pohlen) - Founding member @xAI. Previously @GoogleDeepMind. @RWTH alumnus.
 @ToddMaron (Todd Maron) - FIGS Chief Legal Officer, former Tesla General Counsel
@@ -662,7 +663,7 @@
 @xkcdComic (XKCD Comic) - XKCD comic feed with images and mobile friendly links. Unofficial, feed run by @dghubble
 @xkcd (Randall Munroe) - I draw the comic xkcd
 @X (X) - what's happening?!
-@yacineMTB (kache) - director of emoji engineering @x robotics hobbyist by night, building The Dingbot with @luccidev95 running https://t.co/pWRBfY8ScA - an AI image editor
+@yacineMTB (kache) - stinky swe @x by day robotics hobbyist by night, building The Dingbot with @luccidev95 running https://t.co/pWRBfY8kn2 - an AI image editor
 @YileiQian (Yilei Qian) - Member of Technical Staff @OpenAI, Previously "The algorithm" @Twitter, @Coursera
 @Yuhu_ai_ (Yuhuai (Tony) Wu) - Co-Founder @xAI. Minerva, STaR, AlphaGeometry, AlphaStar, Autoformalization, Memorizing transformer.
 @yulia_navalnaya (Yulia Navalnaya) - 
