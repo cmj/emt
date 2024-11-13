@@ -55,7 +55,7 @@
 @arxivblog (@arxivblog) - The best new ideas in science and technology. Now blogging at Discover Magazine, previously at Technology Review and Medium
 @ashleevance (Ashlee Vance) - Writer at Bloomberg. 2X NYT best-seller. Emmy-nominated host+writer of Hello World. Doc producer @HBO. NYT, El Reg alum. My new book https://t.co/12lAgpqoYo
 @Asmongold (Zack) - Professional Neckbeard
-@Astro_Soichi (NOGUCHI, Soichi 野口　聡一（公式）) - Astronaut/Professor/Entrepreneur. Space Shuttle(STS114), Soyuz(TMA17), SpaceX(Crew1). Tokyo Univ.　最新エッセイ「どう生きるか　つらかったときの話をしよう」絶賛発売中！講演・出演申込はteam.nogu@gmail.com
+@Astro_Soichi (NOGUCHI, Soichi 野口　聡一（公式）) - Astronaut/Professor/IISE CTO. Space Shuttle(STS114), Soyuz(TMA17), SpaceX(Crew1). Guinness World Records holder. WEF executive Fellow. 講演申込はteam.nogu@gmail.com
 @AstroVicGlover (Victor Glover) - Regular Person, @USNavy Captain, and @NASA Astronaut. Work on Earth, Lived @Space_Station E64/65, Piloted Crew-1, moon striving - for All!
 @ATRightMovies (All The Right Movies) - The account on classic and hit films. Details provided in our making of stories is direct from cast/crew or 3+ sources. Check out our podcast @ATRMPodcast 😁
 @Austen (Austen Allred) - CEO Aitra & @bloomtech: We turn software engineering teams hyper-productive using AI. Will tweet as I wish and suffer the consequences.
@@ -106,7 +106,7 @@
 @cbssaturday (CBS Saturday Morning) - Welcome to the weekend! Join Michelle Miller and Dana Jacobson for two hours of news and profiles of leading figures in culture and the arts.
 @CENTCOM (U.S. Central Command) - Official Account of U.S. Central Command (CENTCOM).
 @CERN (CERN) - #CERN is the European laboratory for particle physics, home to the Large Hadron Collider #LHC. French: @CERN_FR
-@Cernovich (Cernovich) - “He who has mercy on the cruel will ultimately become cruel to the merciful." - Talmud
+@Cernovich (Cernovich) - California maximalist.
 @cgpgrey (CGP Grey 🐝) - ⁢⁢⁢⁢⁢
 @chadgibbs88 (Chad Gibbs) - Chad Gibbs - @SpaceX employee working on @Starlink
 @Chad_Hurley (Chad Hurley) - Co-Founder, @YouTube. 🤙
@@ -500,7 +500,6 @@
 @OptimoPrincipi (Gareth Harney) - Historian and author celebrating the endless wonders of the classical world. My book 'Moneta: A History of Ancient Rome in Twelve Coins' is OUT NOW.
 @OriolVinyalsML (Oriol Vinyals) - VP of Research & Deep Learning Lead, Google DeepMind. Gemini co-lead. Past: AlphaStar, AlphaFold, AlphaCode, WaveNet, seq2seq, distillation, TF.
 @O_Satisfying (Oddly Satisfying) - DM For Credit/Removal.
-@O_Satisfying (Oddly Satisfying) - DM For Credit/Removal.
 @OutlawsPoetic (Poetic Outlaws) - The outlaws of poetry and the written word.
 @OversightPR (Oversight Project) - The Everyday American’s legal and investigative org battling corruption and weaponization. tips.oversightproject@heritage.org @Heritage
 @OwenSparks_ (Owen Sparks) - Reporting on the latest in Space Exploration, Energy, and Electric Cars | LETS GO TO MARS BABY 🚀
@@ -510,6 +509,7 @@
 @patrickc (Patrick Collison) - @Stripe CEO, @ArcInstitute cofounder.
 @paulg (Paul Graham) - 
 @pcgamer (PC Gamer) - The global authority on PC games.
+@PeteHegseth (Pete Hegseth) - FOX & Friends Weekend Co-Host | Author | Veteran
 @PeterDiamandis (Peter H. Diamandis, MD) - Data-Driven Optimist; Foundr XPRIZE & Singularity Univ; Longevity Investor & Builder; Chair, Fountain Life; Curator of Abundance360. #1 NY Times Author
 @Peter_J_Beck (Peter Beck) - Rocket Lab
 @peterrhague (Peter Hague) - Solutionist. Astrophysics PhD and scientific software engineer. Dad of 2. Let’s colonise the solar system together. Please visit the link below to read my blog:
