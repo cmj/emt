@@ -12,7 +12,6 @@
 @AGAndrewBailey (Attorney General Andrew Bailey) - The official account of Missouri Attorney General Andrew Bailey.
 @aheze0 (Andrew Zheng) - 
 @ai_insight1 (AI Insight) - Exploring the possibilities and implications of Artificial Intelligence. Sharing news, insights, and analysis on the latest developments in AI technology.
-@ai_insight1 (AI Insight) - Exploring the possibilities and implications of Artificial Intelligence. Sharing news, insights, and analysis on the latest developments in AI technology.
 @AintGottaDollar (Oliver Anthony Music) - 
 @AJamesMcCarthy (Andrew McCarthy) - Exploring the universe from a backyard in Arizona. Sign up for emails at https://t.co/v8ca880mPd. Get the calendar 👇
 @ajassy (Andy Jassy) - Lead Amazon, married and father of two kids, big sports/music/film fan, experienced buffalo wings eater. Go Kraken!
@@ -70,6 +69,7 @@
 @Austen (Austen Allred) - CEO https://t.co/m6TigM5azr & https://t.co/NuPTghEZ1I (part of @bloomtech). We help teams maximize productivity using AI. Will tweet as I wish and suffer the consequences.
 @AutismCapital (Autism Capital 🧩) - Citizen journalism with a humorous flair. Following Fintech, Crypto, AI, Longevity, Politics, and wherever big grift energy goes.
 @Ayaan (Ayaan Hirsi Ali) - Human rights activist, founder @AHAFoundation, fellow @HooverInst and host of the Ayaan Hirsi Ali Podcast. Opinions my own. Check out my work at Courage Media:
+@baglino (Drew Baglino) - Former SVP of Powertrain and Energy at Tesla
 @baglino (Drew Baglino) - Former SVP of Powertrain and Energy at Tesla
 @balajis (Balaji) - Immutable money, infinite frontier, eternal life. #Bitcoin
 @BarackObama (Barack Obama) - Dad, husband, President, citizen.
@@ -156,6 +156,7 @@
 @cthagod (Charlamagne Tha God) - 
 @culturaltutor (The Cultural Tutor) - A beautiful education.
 @Culture_Crit (Culture Critic) - Tradition is not the worship of ashes, but the preservation of fire.
+@cyb3rgam3r420 (Gamer) - 
 @cyb3rgam3r420 (Gamer) - 
 @cybertruck (Cybertruck) - 📐
 @CyrilRamaphosa (Cyril Ramaphosa 🇿🇦) - President of the African National Congress. President of the Republic of South Africa. Chair of the African Union 2020.
@@ -292,7 +293,6 @@
 @GuyDealership (Car Dealership Guy) - Your cheat sheet to the auto industry | content • news • insights | host @cdg_podcast
 @GWR (Guinness World Records) - The global authority on record breaking achievements since 1955 🌍 #GWR2025 and #GWRgamers - OUT NOW! 📘
 @Gwynne_Shotwell (Gwynne Shotwell) - President and COO @SpaceX
-@Gwynne_Shotwell (Gwynne Shotwell) - President and COO @SpaceX
 @HalieyWelchX (Haliey Welch) - Queen of Memes 👸🏼
 @HardcoreHistory (Dan Carlin) - Dan Carlin's Hardcore History Twitter feed quote: Yes, I know the show is late... endquote
 @HawleyMO (Josh Hawley) - Christian, constitutional lawyer, husband to Erin, Dad to Elijah, Blaise and Abigail, U.S. Senator for Missouri
@@ -326,6 +326,7 @@
 @ilyasut (Ilya Sutskever) - SSI @SSI
 @imPenny2x (Penny2x) - change the world.
 @Indian_Bronson (ib) - https://t.co/SN8lIlBeQu urbit: ~tiplen-tarryc @indian_bronson vienna dot earth, telegram, discord, etc.
+@Inevitablewest (Inevitable West) - Defender of Western values and culture. Embracing heritage, strength, and unity. Follow to uphold the legacy of the West! Jesus Christ is King.
 @in_idling (IdlingInNearSpace) - 
 @inspiration4x (Inspiration4) - The first all-civilian mission to orbit. Our crew is home but their mission isn’t over. Help us continue our fundraising efforts for @StJude!
 @interesting_aIl (Interesting As Fuck) - Posting interesting history, tech, art, and more.
@@ -372,8 +373,7 @@
 @JonErlichman (Jon Erlichman) - Growth stocks to buy in 2025?👇
 @Jon_Favreau (Jon Favreau) - actor/writer/director
 @JonKMD (Dr Jon K) - Board Certified Plastic and Reconstructive Surgeon @neuralink Surgery/AI/Longevity/Memes Not medical advice, these are my views only
-@jonst0kes (jonstokes.(eth|com)) - Writer. Coder. θηριομάχης. https://t.co/HdCWhunVUF. Writing about AI at https://t.co/dBPBtyDgx4. Building in AI at https://t.co/otXT4WyEMp.
-@jonstewart (Jon Stewart) - 
+@jonst0kes (Jon Stokes) - Author. Coder. θηριομάχης. CTO. Building: https://t.co/otXT4Wy6WR. Writing: https://t.co/dBPBtyCIHw. ⏩
 @jonstewart (Jon Stewart) - 
 @jordanbpeterson (Dr Jordan B Peterson) - Best-Selling Author | Clinical Psychologist | #1 Education Podcast | Order my new book "We Who Wrestle With God" here:
 @JTLonsdale (Joe Lonsdale) - I'm an entrepreneur, investor, & philanthropist. I founded @PalantirTech @Addepar @UAustinOrg @8VC & other mission-driven orgs. Bold policy @InstituteCicero
@@ -900,6 +900,7 @@
 @xkcd (Randall Munroe) - I draw the comic xkcd
 @X (X) - what's happening?!
 @yacineMTB (kache) - engineer @x. generalist. dad. opinions my own, dummies building a robot with no experience, learning ML running https://t.co/pWRBfY8kn2 - an AI image editor
+@YileiQian (Yilei Qian) - Member of Technical Staff @OpenAI, improving 4o and 4o-mini, Previously "The algorithm" @Twitter, @Coursera
 @YileiQian (Yilei Qian) - Member of Technical Staff @OpenAI, improving 4o and 4o-mini, Previously "The algorithm" @Twitter, @Coursera
 @ying11231 (Ying Sheng) - @xAI @lmsysorg | Assist Prof @UCLA. (Fall 2026) | Prev. PhD @Stanford | Large Language Models and Programming | Do it anyway
 @Yuhu_ai_ (Yuhuai (Tony) Wu) - Co-Founder @xAI. STaR, Minerva, AlphaGeometry, Autoformalization, AlphaStar, Memorizing transformer.
