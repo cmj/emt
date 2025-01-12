@@ -1,4 +1,4 @@
 # emt
 Elon Musk following Tracker.
 
-https://github.com/cmj/emt/blob/df62d4b4427e535ae0a49b293ce0ffe9abf8bf04/friends.diff#L1-L50
+https://github.com/cmj/emt/blob/fc84cb8d2e6f98cfcd82ac6de81afdd5f53a40d4/friends.diff#L1-L50
