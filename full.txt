@@ -341,7 +341,6 @@
 @HardcoreHistory (Dan Carlin) - Dan Carlin's Hardcore History Twitter feed quote: Yes, I know the show is late... endquote
 @hartgoat (Washingtons ghost) - Stuff and things. Possibly a ghost. Vanilla villain
 @HawleyMO (Josh Hawley) - Christian, constitutional lawyer, husband to Erin, Dad to Elijah, Blaise and Abigail, U.S. Senator for Missouri
-@HawleyMO (Josh Hawley) - Christian, constitutional lawyer, husband to Erin, Dad to Elijah, Blaise and Abigail, U.S. Senator for Missouri
 @HeidiBriones (Heidi) - writer ✍️ often joking⚡️
 @HeinrichKuttler (heiner) - Pretraining @xAI. Previously: @InflectionAI, @AIatMeta, @DeepMind, @Google, @LMU_Muenchen, PhD math-ph. Opinions my own. (Can be yours for a small fee.)
 @heydave7 (Dave Lee) - Host of YouTube channel Dave Lee on Investing, TSLA investor since 2012, building with AI.
@@ -677,6 +676,7 @@
 @Project2501_117 (Trista) - Lady of @ID_AA_Carmack Texas Native: United States Army Veteran: Positive Vibes Only: Full Time Adventure!
 @Pro (Pro) - A powerful, real-time tool for people who live on X.
 @ptraughber (Patrick Traughber) - 📱💻🌊🏔️👟🚲🇺🇸
+@pud (Philip Kaplan) - Computer programmer, headphone maker, drummer, general purpose nerd. Formerly founded DistroKid and other things.
 @PyTorch (PyTorch) - Tensors and neural networks in Python with strong hardware acceleration. PyTorch is an open source project at the Linux Foundation. #PyTorchFoundation
 @QuasLacrimas (tantum) - qvi•petere•a•popvlo•fasces•sævasqve•secvres•imbibit•et•semper•victvs•tristisqve•recedit
 @RadioEuropes (Radio Europe) - Breaking News from MEGA 🚨 Turn on Notifications 🔔 #EuropeansLivesMatter
@@ -895,7 +895,7 @@
 @Tesla_AI (Tesla AI) - 
 @Tesla_Asia (Tesla Asia) - Accelerate the world's transition to sustainable energy.
 @TeslaBoomerMama (Ale𝕏andra Merz 🇺🇲) - Fangirl of Elon. Fierce Tesla retail shareholder advocate. 💙 of my life @TeslaBoomerPapa. Proud Mom of 5 exceptional humans. Not giving any financial advice
-@TeslaCharging (Tesla Charging) - New Supercharger sites, announcements and all things charging.
+@TeslaCharging (Tesla Charging) - New Superchargers and all things charging
 @Teslaconomics (Teslaconomics) - I post my conscious thoughts with the world, live life to the fullest, keep things simple, truthful & filter the noise.
 @teslaenergy (Tesla Energy) - Produce & store your own energy with Solar Panels, Solar Roof & Powerwall
 @teslaeurope (Tesla Europe & Middle East) - All things Tesla Europe & Middle East
