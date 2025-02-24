@@ -165,7 +165,6 @@
 @collision (John Collison) - Co-founder of @stripe.
 @CommunityNotes (Community Notes) - Empowering users to create a better-informed world. We're open source and data is publicly available: https://t.co/Te3IjR10Ix Q? Reply/DM
 @Congressman_JVD (Congressman Jeff Van Drew) - Proudly serving New Jersey's Second Congressional District. Member of @JudiciaryGOP & @TransportGOP
-@Congressman_JVD (Congressman Jeff Van Drew) - Proudly serving New Jersey's Second Congressional District. Member of @JudiciaryGOP & @TransportGOP
 @cracked_eng (cracked_eng) - Random thoughts. Main account @TobyPhln
 @CramerTracker (Inverse Cramer) - Finance and market moving news, parody, & memes. Bitcoin. Personal views. Not affiliated w/ Jim Cramer. NFA, DYOR.
 @cremieuxrecueil (Crémieux) - I write about genetics, 'metrics, and demographics. Read my long-form writing at https://t.co/8hgA4nNS2A.
@@ -195,6 +194,7 @@
 @DavidSacks (David Sacks) - Tech founder & investor. Personal views only. Official account: @davidsacks47
 @DavidSHolz (David) - founder @midjourney, prev founder leap motion, nasa, max planck
 @dawallach (D.A. Wallach) - Life sciences & healthcare investor. Occasional recording artist. Trustee, Santa Fe Institute. Proud globalist. https://t.co/ISRFxh8utU
+@dbongino (Dan Bongino) - 
 @DC_Draino (DC_Draino) - Rogan O’Handley • Lawyer • Patriot • MAGA since 2015
 @dearmoonproject (dearMoon) - The first all-civilian lunar orbital mission, dearMoon. 民間人初の月周回プロジェクトdearMoon🌕
 @DefiantLs (Defiant L’s) - Exposing hypocrisy, one day at a time. • DM submissions/biz inquiries
@@ -281,7 +281,7 @@
 @fasc1nate (Fascinating) - Posting interesting science, gadgets, history, art, and more. Subscribe for in-depth posts. As an Amazon Associate I earn from qualifying purchases.
 @FBIDirectorKash (FBI Director Kash Patel) - Ninth Director of the Federal Bureau of Investigation
 @FBI (FBI) - Official FBI Twitter. Submit tips at https://t.co/tGqFRcJykB. Public info may be used for authorized purposes: https://t.co/x6bfDUEYeJ.
-@fchollet (François Chollet) - Co-founder @ndeainc. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.
+@fchollet (François Chollet) - Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.
 @fentasyl (~~datahazard~~) - Unincorporated Think Tank ~~ Focus: Govt Efficiency, Civil Rights, Victim Advocacy ~        ~   Subscriptions now open. Wallets at https://t.co/93jny1km4W
 @fermatslibrary (Fermat's Library) - A platform for illuminating academic papers. We annotate and share a paper every week. Save, annotate and share papers with anyone: https://t.co/0o2Pls3jmo
 @Fidias0 (Fidias Panayiotou) - non attached member of the European Parliament 🇪🇺
