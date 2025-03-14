@@ -124,7 +124,7 @@
 @Caitlyn_Jenner (Caitlyn Jenner) - Olympian. FOX Contributor. Fairness First PAC. Public Speaker. NYT Best Seller. Crypto Fan. Father. mgmt: Sophia@CaitlynJenner.com
 @CathieDWood (Cathie Wood) - Founder, CEO and CIO @ARKinvest. Thematic portfolio manager for disruptive innovation, mom, economist, and women's advocate. Disclosure: https://t.co/chxRD4oWOd
 @catturd2 (Catturd ™) - The turd you can’t flush.
-@cb_doge (DogeDesigner) - UX/UI & Graphic Designer at Dogecoin MyDoge DogeOS / 𝕏 Creator
+@cb_doge (DogeDesigner) - 
 @cboyack (Connor Boyack 📚) - President @Libertas, @CEMKidsMarket, @DiscoverPraxis. Author 50 books including @tuttletwins, Exec Producer @tuttletwinstv. Public speaker, outlaw beekeeper 🐝
 @cbssaturday (CBS Saturday Morning) - Welcome to the weekend! Join Michelle Miller and Dana Jacobson for two hours of news and profiles of leading figures in culture and the arts.
 @CENTCOM (U.S. Central Command) - Official Account of U.S. Central Command (CENTCOM).
@@ -152,6 +152,7 @@
 @chrispavlovski (Chris Pavlovski 🏴‍☠️) - I'm the CEO of $RUM. I ❤ everything space and decentralized.
 @ChrSzegedy (Christian Szegedy) - #deeplearning, #ai research scientist. Opinions are mine.
 @CIA (CIA) - We are the Nation's first line of defense. We accomplish what others cannot accomplish and go where others cannot go. https://t.co/yhjtYvFBiJ
+@cia_ratcliffe (CIA Director John Ratcliffe) - Serving as Director of the CIA for POTUS 47. Served as Director of National Intelligence (DNI) for POTUS 45. Former Member of Congress and U.S. Attorney.
 @ciguleva (Tatiana Tsiguleva) - Creative ambassador @perplexity_ai | Designer @Restreamio | Midjourney: Sharing learnings and prompts | Mom of 2
 @CJHandmer (Casey Handmer, PhD) - Physicist, Immigrant, Pilot, Dad. Former Caltech, Hyperloop, NASA JPL. Founder @terraformindies. Read scrolls. Build more solar!
 @ckuehmann (Charlie Kuehmann) - VP Materials Engineering @SpaceX and @Tesla
@@ -438,7 +439,6 @@
 @johnkrausphotos (John Kraus) - Photographer sharing the most exciting moments from this great new era in spaceflight
 @JohnLeFevre (John LeFevre) - Signed contracts with Goldman Sachs and Simon & Schuster, and paid lawyers more than I made. NYT bestselling author of STRAIGHT TO HELL
 @JohnnaCrider1 (Johnna) - New photo journal: https://t.co/7CxzJIKpRh gems, minerals, nature; I support Elon Musk
-@JohnRatcliffe (CIA Director John Ratcliffe) - Serving as Director of the CIA for POTUS 47. Served as Director of National Intelligence (DNI) for POTUS 45. Former Member of Congress and U.S. Attorney.
 @JohnStoll1977 (John Stoll) - X's newsman in chief. Moonlight as a deacon.
 @JohnStossel (John Stossel) - To make sure you get our NEW video each week, sign up for video alerts here: https://t.co/qdAqSDZ96B
 @JonErlichman (Jon Erlichman) - Founder, Ticker Take. BNN Bloomberg contributor.
@@ -479,7 +479,7 @@
 @KnowledgeArchiv (The Knowledge Archivist) - Useful knowledge from the lives of the Greatest People in History. Learn the stories and insights about influential people you should have learned in school.
 @KonstantinKisin (Konstantin Kisin) - Politically Non-Binary Satirist Podcast: @triggerpod Speaking: rafe.fletcher@cwgspeakers.com Media: info@triggerpod.co.uk Book: https://t.co/GgTCJ7iPE8
 @konstructivizm (Black Hole) - Only New Content, news, articles, images, videos, and discussion #space,#FollowMe, #Nature, #astronomy, #Nasa, #astrophotography, #science
-@KrahMax (Dr. Maximilian Krah MdEP) - Maximilian Krah, direkt gewählter Abgeordneter zum 21. Deutschen Bundestag, seit 2019 Mitglied des Europäischen Parlaments, AfD.
+@KrahMax (Dr. Maximilian Krah MdB) - Maximilian Krah, direkt gewählter Abgeordneter zum 21. Deutschen Bundestag, 2019-25 Mitglied des Europäischen Parlaments, AfD.
 @KrassenCast (KrassenCast) - 'KrassenCast: Unifying What's Left' - A Product by the Krassenstein brothers -- @Krassenstein & @Edkrassen
 @KremlinRussia_E (President of Russia) - Official Kremlin news Official Telegram channel: https://t.co/ASrzdwRxSU
 @Kristennetten (K10✨) - At the foot of the mountain .. though not verifiable 🚘 Tesla is ♥️ Earth & Spacex • FSDBeta Tester 2020 •
@@ -1070,7 +1070,7 @@
 @xkcdComic (XKCD Comic) - XKCD comic feed with images and mobile friendly links. Unofficial, feed run by @dghubble
 @xkcd (Randall Munroe) - I draw the comic xkcd
 @X (X) - what's happening?!
-@yacineMTB (kache) - engineer @x., dad, robots. memes made with https://t.co/pWRBfY8kn2 - I am the first person to notice AGI is here. I write a *daily* subscriber only blog about it
+@yacineMTB (kache) - engineer @x., dad, robots. memes made with https://t.co/pWRBfY8kn2 - I am the first person to notice AGI is here. I write 5x a week subscriber only blog about it
 @YileiQian (Yilei Qian) - Member of Technical Staff @OpenAI, Previously "The algorithm" @Twitter, @Coursera
 @ying11231 (Ying Sheng) - @xAI @lmsysorg | Assist Prof @UCLA. (Fall 2026) | Prev. PhD @Stanford | Do it anyway
 @Yuhu_ai_ (Yuhuai (Tony) Wu) - Co-Founder @xAI. Grok3 Reasoning, STaR, Minerva, AlphaGeometry, Autoformalization, AlphaStar, Memorizing transformer.
