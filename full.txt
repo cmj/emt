@@ -401,6 +401,7 @@
 @in_idling (IdlingInNearSpace) - 
 @inspiration4x (Inspiration4) - The first all-civilian mission to orbit. Our crew is home but their mission isn’t over. Help us continue our fundraising efforts for @StJude!
 @interesting_aIl (Interesting As Fuck) - Posting interesting history, tech, art, and more.
+@Interior (US Department of the Interior) - Stewarding Conservation and Powering Our Future. For news and policy: @InteriorPress47.
 @internetarchive (Internet Archive) - Internet Archive is a non-profit research library preserving web pages, books, movies & audio for public access. Explore web history via the @waybackmachine.
 @IraEhrenpreis (Ira Ehrenpreis) - 
 @iruletheworldmo (🍓🍓🍓) - grok 3 is asi: february 17
@@ -601,7 +602,7 @@
 @MrsMThatcher (Margaret Thatcher) - Quotes of comments and speeches made by Margaret Thatcher (13 October 1925 – 8 April 2013). Occasionally off-piste. Tips via @MyDogeTip.
 @mrsrabbithole (Mrs. Rabbit Hole) - 
 @mtbarra (Mary Barra) - @GM Chair and CEO leading an outstanding team with the ambition, talent and technology to create a world with zero crashes, zero emissions and zero congestion.
-@mysteriouskat (🚨 Katherine Brodsky) - Writer/journalist (Newsweek, WIRED, Variety, Skeptic, WashPost, etc). Powered by free thought™, mischief, humor, curiosity & reason. Author of NO APOLOGIES.
+@mysteriouskat (🚨 Katherine Brodsky) - Writer/journalist. Powered by free thought™, mischief, humor, curiosity & reason. Author of NO APOLOGIES. Substack: https://t.co/2d8YvA6gep
 @narendramodi (Narendra Modi) - Prime Minister of India
 @NASAJPL (NASA JPL) - The Jet Propulsion Laboratory manages many of NASA's robotic missions exploring Earth, the solar system, and our universe. (Verification: https://t.co/iicDVgZd2m)
 @NASAKennedy (NASA's Kennedy Space Center) - 🚀We are the world’s preeminent launch complex for government and commercial space access. We usually post in ET. Verification: https://t.co/e2I18WL6Xs
@@ -631,12 +632,11 @@
 @nfergus (Niall Ferguson) - International man of history, Flying Scotsman. Author, @HooverInst senior fellow, @TheFP and @thetimes columnist. Opinions my own.
 @nichegamer (Niche Gamer) - https://t.co/TZCDnIuXq6 is the premiere enthusiast gaming and culture site for niche and unique stuff from across the globe.
 @nicksortor (Nick Sortor) - On-scene covering stories MSM won’t. | Seen on @TuckerCarlson Tonight, Fox News, Newsmax, Timcast, etc. • #EastPalestine #Maui #WNC
-@NicoleShanahan (Nicole Shanahan) - Mom to Echo. Healthy Planet & Healthy People. team@nicoleshanahan.me
+@NicoleShanahan (Nicole Shanahan) - Mom to Echo. Healthy Planet & Healthy People.
 @Nigel_Farage (Nigel Farage MP) - Leader of Reform UK. MP for Clacton. 🇬🇧
 @Nigel_Lockyer (Nigel Lockyer) - I am the new Director of Cornell Laboratory for Accelerator-based ScienceS and Education. @CornellCLASSE
 @NIH (NIH) - Official account of the National Institutes of Health. NIH...Turning Discovery Into Health®.   Privacy Policy: https://t.co/wOGwZ3gX1M Engagement ≠ endorsement
 @nikitabier (Nikita Bier) - I make apps grow really fast. ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)
-@nikolas_dm (Nikolas Ferreira) - - Dep. Federal mais votado do Brasil e da história de Minas Gerais 🇧🇷 - Most voted congressman in Brazil & in the history of Minas Gerais. 🇺🇸
 @nikolas_dm (Nikolas Ferreira) - - Dep. Federal mais votado do Brasil e da história de Minas Gerais 🇧🇷 - Most voted congressman in Brazil & in the history of Minas Gerais. 🇺🇸
 @NikoWrex (NikoWrex) - Family, Work, Exercise, Gaming! Blessed beyond measure.
 @nmswede (Andree Jacobson) - Building massive scale HPC and AI compute at @xAI. Strong @Grok supporter. Work and random stuff. Views are my own.
@@ -768,7 +768,7 @@
 @RishiSunak (Rishi Sunak) - MP for Richmond and Northallerton. Former Prime Minister of the United Kingdom 🇬🇧
 @RMistereggen (Rebecca Mistereggen) - Norwegian 🇳🇴 Journalist / Show host with https://t.co/WMICekSPIS / Help me keep my caffeine levels up, buy me a coffee: https://t.co/H13QwkZomE
 @Rob_2628 (Rob2628) - Hi I'm Rob. I post about Gaming, @Diablo & @pathofexile & stream efficient, high-quality gameplay! https://t.co/aEk18dC723 Business: rob@epictalent.gg
-@robbystarbuck (Robby Starbuck) - New Film Streaming @ https://t.co/TWxvgCtm0s • Cuban American 🇺🇸 • Used to Direct Stars, Now I Fight For Freedom • Filmmaker/Host • ❤️ @LandonStarbuck • Dad
+@robbystarbuck (Robby Starbuck) - Filmmaker/Host • Cuban American • Used to Direct Stars, Now I Fight For 🇺🇸 • ❤️ @LandonStarbuck • Dad • Visiting Fellow @Heritage • Film: https://t.co/wi7k3h7sTJ
 @RobertIger (Robert Iger) - CEO The Walt Disney Company
 @RobertKennedyJr (Robert F. Kennedy Jr) - Posts on this account are my personal views.
 @robinhanson (Robin Hanson) - Let’s skip witty banter & talk deep Qs. Books: https://t.co/hpZgEm55Ma https://t.co/iFs9C3IuOM Chief Scientist @_futarchy Advisor @MetaDAOProject @butterygg
@@ -852,7 +852,7 @@
 @SenThomTillis (Senator Thom Tillis) - Official Twitter account of North Carolina U.S. Senator Thom Tillis.
 @SenToddYoung (Senator Todd Young) - I proudly serve Hoosier families in the U.S. Senate. Contact my office at (202) 224-5623 for assistance. You can also visit our website for additional info.
 @SenTuberville (Coach Tommy Tuberville) - United States Senator for the great state of Alabama.
-@SERobinsonJr (S.E. Robinson, Jr.) - Chronicling the daily activities of Musk's companies in a condensed, organized, easy to read 𝕏 Article. M-F @ Closing Bell
+@SERobinsonJr (S.E. Robinson, Jr.) - Chronicling the daily activities of Musk's companies in a condensed, organized, easy to read 𝕏 Article every M-F
 @SethDillon (Seth Dillon) - |Satire| Reality → 1
 @sethfuchs100 (Seth Fuchs) - 
 @sfstandard (The San Francisco Standard) - Finally, the new news organization that San Francisco deserves.
@@ -876,7 +876,7 @@
 @SmartBiology3D (Smart Biology) - 3D animated, interactive, biology courseware so students can truly understand. #3D #biology #education #animation
 @SmokeAwayyy (Smoke-away) - Nostalgia for the Future.
 @sohni (Abhijeet Sohni) - Finance Executive: FP&A, Strategy, Data Science, Business Intelligence, Analytics, World-Class Teams | Ex @Amazon | Working on @inferra_net / @soltoons_
-@SouthPark (South Park) - Official South Park
+@SouthPark (South Park) - South Park returns with all-new episodes on Wednesday, July 9 to Comedy Central.
 @SpaceForceCSO (General Chance Saltzman) - RTs, likes, follows ≠ endorsement In accordance with Presidential EO and DoDI 5400.17, content has been removed to maintain consistency with federal guidance.
 @SpaceForceDoD (United States Space Force) - Official U.S. Space Force twitter: The appearance of hyperlinks does not = endorsement. Comment moderation & endorsement policy: https://t.co/IRRy2MYRdE
 @Space_Station (International Space Station) - NASA's page for the latest updates from the International Space Station. For the newest science, follow @ISS_Research. Verification: https://t.co/jSJ1pgS2xl
@@ -955,7 +955,7 @@
 @TheFIREorg (FIRE) - We defend and promote free speech for all Americans in our courtrooms, on our campuses, and in our culture.
 @TheFreeThought2 (The Free Thought Project 2.0) - A hub for Free Thinking conversations about the promotion of liberty and the daunting task of government accountability.
 @TheGregYang (Greg Yang) - make america grok again
-@TheHackersNews (The Hacker News) - #1 Most trusted publication for breaking cybersecurity and hacking news, insights, and analysis for information security professionals.
+@TheHackersNews (The Hacker News) - #1 Most trusted source for cybersecurity news, insights & analysis — driving action for those who lead and secure.
 @theisabelb (Isabel Brown) - truth seeker | host of the isabel brown show | author | corgi enthusiast
 @the_jefferymead (Jeffery Mead) - Designed in a Lab jeff@meadx.com
 @TheJusticeDept (U.S. Department of Justice) - Official account of the Justice Department 🇺🇸 DOJ Privacy Policy: https://t.co/2J3w9Hb2Fj
@@ -1054,7 +1054,7 @@
 @WesleyHuntTX (Wesley Hunt) - Father, Husband, Army Veteran, West Point Graduate, Native Texan, Congressman for TX-38. Follow @RepWPH for Congressional Updates. (American/Apache Pilot)
 @westcoastbill (bill lee) - investor: @spacex @passionflix @cloud9 @neuralink @tesla @boringcompany @x @xai @coinbase @groqinc @mydoge cards: https://t.co/kTIqv0L4mY
 @WesternLensman (Western Lensman) - 🇺🇸 Creator | Video Producer | Politics | Media | American 🇺🇸
-@WhiteCoatWaste (White Coat Waste Project) - Bipartisan campaign to expose & close the US govt’s $20B animal testing biz. Ended the fed’s top cat lab. Uncovered NIH-Wuhan lab leak $ + Fauci’s beagle tests
+@WhiteCoatWaste (White Coat Waste) - Bipartisan campaign to expose & close the US govt’s $20B animal testing biz. Ended the fed’s top cat lab. Uncovered NIH-Wuhan lab leak $ + Fauci’s beagle tests
 @WhiteHouse (The White House) - The Golden Age of America Begins Right Now.
 @WholeMarsBlog (Whole Mars Catalog) - Covering tech, markets, AI, new energy, and autonomous electric vehicles 24/7
 @wikileaks (WikiLeaks) - PGP: A04C 5E09 ED02 B328 03EB 6116 93ED 732E
