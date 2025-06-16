@@ -117,7 +117,7 @@
 @BillyM2k (Shibetoshi Nakamoto) - the dumbass who made dogecoin | https://t.co/nmb2pyUr7N | itrustcapital promo code BILLYM2KX for $100 bonus @ https://t.co/62Z9zh4B5I
 @bindureddy (Bindu Reddy) - CEO of @abacusai, the world’s first AI super assistant and general-purpose agent, DeepAgent, for enterprises and professionals. ex-GM, AWS and Google
 @BIZPACReview (BPR) - The truth doesn’t just set you free. It keeps you free. Read real news during this historic time.
-@BlairBrandt (Blair Brandt) - Florida Man. Real Estate Developer and Entrepreneur. Former TV Personality. Animal (🐶) Welfare Advocate. Trump 2020 Florida Co-Chair. Trump/Vance 2024. 🇺🇸
+@BlairBrandt (Blair Brandt) - Florida Man. Real Estate Developer and Entrepreneur. Former TV Personality. Animal (🐶) Welfare Advocate.
 @Blake_Hall (Blake Hall) - Founder & CEO of https://t.co/rlteLqhtTe Army Veteran. American. Live free or die.
 @Boca_Bill_R (Bill R) - VP Starship Engineering @SpaceX | Formula SAE Design Event Chief Judge
 @boomaero (Boom Supersonic) - Building the world's fastest airliner, Overture — optimized for speed, safety, and sustainability.
@@ -731,7 +731,6 @@
 @PopMech (Popular Mechanics) - The best in tech, science, aerospace, DIY and auto news. Sign up for our newsletter: https://t.co/KYCjTasgGi
 @POTUS (President Donald J. Trump) - 45th & 47th President of the United States. The Golden Age of America Begins Right Now.
 @premium (Premium) - Subscribe for the best X experience: ad-free, post edits, content monetization, Grok AI with higher limits, video downloads, long posts, X Pro, and more.
-@President_KR (윤석열 Yoon Suk Yeol) - 제20대 대통령 윤석열입니다. Yoon Suk Yeol The 20th President of the Republic of Korea
 @PressSec (Karoline Leavitt) - Assistant to the President and White House Press Secretary
 @PrinaMauro (Mauro Prina) - 
 @PrinceVogel (Prince Vogelfrei) - Searching for the deepest possible conviction
@@ -944,6 +943,7 @@
 @sturnerofficial (Scott Turner) - Personal account for Secretary of HUD | Fmr Exec. Dir of WH Opportunity Zones | Founder @communityeoc | Fmr NFL Player
 @s_tworkowski (Szymon Tworkowski) - reasoning @xAI | prev. @GoogleAI @UniWarszawski | LongLLaMA | long-context LLMs and math reasoning | scaling maximalist
 @Subscriptions (Creator Subscriptions) - Support your favorite creators with monthly subscriptions to their accounts!
+@sukyeol__yoon (윤석열 Yoon Suk Yeol) - 제20대 대통령 윤석열입니다. Yoon Suk Yeol The 20th President of the Republic of Korea
 @sundarpichai (Sundar Pichai) - CEO, Google and Alphabet
 @SusieWiles (Susie Wiles) - Gvmt Affairs & Politics Professional, GOPer, Jaguar & Giants Fan, Mom to Katie & Caroline & Grand to Easton,Proud @RickforFlorida ‘10 & @ RealDonald Trump ‘16
 @suyanus (Su Yan) - Engineer @xAI, ex-TikTok, ex-Airbnb
@@ -1061,7 +1061,7 @@
 @unherd (UnHerd) - Challenging the herd with new and bold thinking in philosophy, politics and culture. Dare to think for yourself, subscribe to UnHerd here: https://t.co/zUxzdsSoTQ
 @united (United Airlines) - You’ve landed at the ✨official account✨ for United Airlines, where everyone is the main character on our flights. DM directly for assistance.
 @universal_sci (Universal-Sci) - The official Universal-Sci account - Providing you with a selection of the most interesting science-related news and background stories
-@unlimited_ls (Unlimited L's) - Source For Political News, Crimes And Social Injustice🇺🇸 - I Bring You The News, For The Views🫡 - Powered by GrokTimus
+@unlimited_ls (Unlimited L's) - Source For Political News, Crimes And Social Injustice🇺🇸 - I Bring You The News, For The Views🫡 - Powered by @WeAreGrokTimus
 @unusual_whales (unusual_whales) - Stocks/Options/Crypto/Market News + Tools. Not advice Get a bonus opening a new tastytrade account: https://t.co/wGf2ZdlXpw Discord: https://t.co/0xJ9e0ZYYG More: https://t.co/nsxZlPV0pC
 @UpdatingOnRome (Daily Roman Updates) - The Empire is gone | Our shitposting is not | Voted Man of the Year 476 AD. 29k subs on YouTube. https://t.co/HQ6Ax4NCQC
 @USAEdMartin (U.S. Attorney Ed Martin) - Official account of former U.S. Attorney for the District of Columbia Edward Martin. This account is no longer active.
@@ -1082,7 +1082,7 @@
 @vincehaley (Vince Haley) - Policy Director, Trump 2024 Campaign
 @visegrad24 (Visegrád 24) - Aggregating and curating news, politics and current affairs. #BTC
 @VitalikButerin (vitalik.eth) - I choose balance. First-level balance. mi pinxe lo crino tcati https://t.co/gCQrmCb0ih
-@VivekGRamaswamy (Vivek Ramaswamy) - Father, Husband, Entrepreneur. Leading Ohio to our greatest days ahead.
+@VivekGRamaswamy (Vivek Ramaswamy) - Father. Husband. Entrepreneur. Candidate for Governor of Ohio.
 @vonderleyen (Ursula von der Leyen) - President of the @EU_Commission. Mother of seven. Brussels-born. European by heart. 🇪🇺
 @votetimscott (Tim Scott) - U.S. Senator from South Carolina
 @VP (Vice President JD Vance) - 50th Vice President of the United States. Christian, husband, father. Proud to serve the American people with President Donald J. Trump 🇺🇸
@@ -1118,12 +1118,12 @@
 @woodhaus2 (Franz von Holzhausen) - Chief Designer @Tesla
 @WorldAndScience (World and Science) - Frequently updated assortment of tweets related to the world of science (with some side tracking) - As an Amazon Associate we earn from qualifying purchases
 @WR4NYGov (Warren Redlich - Chasing Dreams 🇺🇸) - Dad, AnCap Florida Man training neural nets on Asia dataset. Tesla SpaceX Tech nerd. Pro-🇮🇱 but anti-aid. English, Español, 日本語, ภาษาไทย, Français
-@WSBChairman (Chairman) - the chairman | @integritydao
+@WSBChairman (Chairman) - the chairman
 @wudijo (wudijo) - #DiabloIV & #PathofExile2 Streamer/YouTuber/Theorycrafter & World First Racer. Director of Diablo Franchise on @maxrollgg Business: wudijo@dulcedo.com
 @xai (xAI) - 
 @X_ArtGallery (Art Gallery) - Art
 @XboxP3 (Phil Spencer) - Head of Microsoft Gaming | #PowerYourDreams
-@XBusiness (Business) - Get better at X. Get better at business.
+@XBusiness (@XBusiness is at #CannesLions2025) - Get better at X. Get better at business.
 @xDaily (X Daily News) - Your #1 News source on everything 𝕏 + xAI | Contributors: @HXMnCK, @LohanSimpson @xUpdatesRadar and @swak_12 I | Hit Follow and sign up for notifications! 🔔
 @XData (Data) - X by the numbers
 @XDevelopers (Developers) - The voice of the X Dev team and your official source for updates, news, and events, related to the X API.
