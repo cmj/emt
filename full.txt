@@ -191,6 +191,7 @@
 @cstanley (Christopher Stanley) - {title: "Security Engineering", company: 〚"@SpaceX", "@X" 〛, education: "M.S Computer Science // Cyber Security"}
 @cthagod (Charlamagne Tha God) - 
 @culturaltutor (The Cultural Tutor) - A beautiful education.
+@curtis_yarvin (Curtis Yarvin) - More cool stuff at https://t.co/G2E1HeSdVf
 @cyb3rgam3r420 (Gamer) - 
 @cybertruck (Cybertruck) - 📐
 @CyrilRamaphosa (Cyril Ramaphosa 🇿🇦) - President of the African National Congress. President of the Republic of South Africa. Chair of the African Union 2020.
