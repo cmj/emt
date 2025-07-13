@@ -869,7 +869,6 @@
 @SecretService (U.S. Secret Service) - The Secret Service is mandated by Congress to carry out an integrated mission of protection and criminal investigations.
 @SecRollins (Secretary Brooke Rollins) - The 33rd U.S. Secretary of Agriculture under the leadership of @POTUS Trump. 🌾
 @SecRubio (Secretary Marco Rubio) - 72nd Secretary of State serving under the leadership of @POTUS Trump.
-@SecScottBessent (Treasury Secretary Scott Bessent) - 79th United States Secretary of the Treasury
 @SecVetAffairs (VA Secretary Doug Collins) - Official Account of the 12th United States Secretary of Veterans Affairs
 @SeibtNaomi (Naomi Seibt) - I don’t want you to panic. I want you to think. https://t.co/Yv0fCbGlsI
 @SenateGOP (Senate Republicans) - Updates from Senate Republicans and the Senate Republican Conference, led by @SenTomCotton.
@@ -921,7 +920,7 @@
 @SpaceForceCSO (General Chance Saltzman) - Official account of @SpaceForceDoD’s 2nd Chief of Space Operations. Reposts, likes, follows ≠ endorsement.
 @SpaceForceDoD (United States Space Force) - Official U.S. Space Force twitter: The appearance of hyperlinks does not = endorsement. Comment moderation & endorsement policy: https://t.co/IRRy2MYRdE
 @Space_Station (International Space Station) - NASA's page for the latest updates from the International Space Station. Verification: https://t.co/jSJ1pgRuHN
-@spacesudoer (Space Sudoer) - Spaceflight | Rockets | Technology Subscribe to support development of my small-scale TVC rocket.
+@spacesudoer (Space Sudoer) - 
 @SpaceX (SpaceX) - SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft
 @SpeakerMcCarthy (Kevin McCarthy) - 55th Speaker of the House
 @SphereVegas (Sphere) - The Wizard of Oz at Sphere opens August 28. Tickets are on sale now at the link in bio
