@@ -981,6 +981,7 @@
 @statedeptspox (U.S. Department of State Spokesperson) - The official account of @StateDept’s Spokesperson serving under the leadership of the 72nd Secretary of State @SecRubio and @POTUS Trump.
 @stats_feed (World of Statistics) - There are three kinds of lies: lies, damned lies, and statistics. Sister page of @engineers_feed
 @stat_sherpa (Stat Shepherd) - Data visualizations & insights 📊
+@StefanoErmon (Stefano Ermon) - AI Prof @Stanford | CEO & Cofounder @InceptionAILabs | Co-inventor of DDIM, FlashAttention, DPO, GAIL, and score-based/diffusion models
 @StephenClark1 (Stephen Clark) - Space Reporter @arstechnica, ex @SpaceflightNow | Reachable at Stephen.Clark@arstechnica.com
 @StephenM (Stephen Miller) - @WhiteHouse Deputy Chief of Staff for Policy and Homeland Security Advisor | 45 & 47
 @stephen_wolfram (Stephen Wolfram) - Creating ideas, technology, science, companies, books, ... #WolfLang #WolframPhysics #WolframAlpha #Mathematica @WolframResearch
@@ -1035,7 +1036,7 @@
 @TeslaRoadTrip (TeslaRoadTrip) - Technology. EV's. Sustainable Transport. Cooking. Renewable Energy. Road trip emission free! 🚙
 @tesla_semi (Tesla Semi) - BAMF – the future of electric trucking
 @tesla_singapore (Tesla Singapore) - Accelerating the world's transition to sustainable energy
-@Tesla (Tesla) - Electric vehicles, giant batteries & solar, AI & robotics / https://t.co/WbcKtqUxSs
+@Tesla (Tesla) - Electric vehicles, giant batteries & solar, AI & robotics / https://t.co/WbcKtqU02U
 @Tesmanian_com (Tesmanian.com) - Tesla, SpaceX, Elon Musk and related News+Info.
 @tetsuoai (tetsuo) - ✧ ℭ𝔖/𝔐𝔞𝔱𝔥 – ℭ & 𝔄𝔰𝔰𝔢𝔪𝔟𝔩𝔶 𝔰𝔦𝔫𝔠𝔢 ’94 ✧ ✧ 𝔪𝔬𝔤/𝔞𝔠𝔠 🇺🇸 ✧
 @TexasLindsay_ (TexasLindsay™) - JMFF Fellow | Free Speech Cognoscente | See Highlights Tab for #TwitterFiles Coverage | Auburn University Alum | War Eagle 🦅🇺🇸
@@ -1107,7 +1108,7 @@
 @TrungTPhan (Trung Phan) - Write on business with @workweekinc. Building a privacy-first AI research app (https://t.co/fZ5ObIy3Ra) and LLM API management platform (https://t.co/VTMMh1UFSj)
 @trussliz (Liz Truss) - Sunday Times bestselling writer. Former Prime Minister of the United Kingdom https://t.co/hI4TsvHwGZ
 @tsarnick (Tsarathustra) - Boy, accelerated
-@tszzl (roon) - fellow creators the creator seeks
+@tszzl (roon) - 'Technological innovation can be a form of participation in the divine act of creation'
 @TuckerCarlson (Tucker Carlson) - 
 @TulsiGabbard (Tulsi Gabbard 🌺) - Director of National Intelligence. Former Presidential candidate & Congresswoman. Soldier. NYT bestselling author. (Views do not reflect position of USG/DoD)
 @tunguz (Bojan Tunguz) - ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.
