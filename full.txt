@@ -63,7 +63,7 @@
 @Anc_Aesthetics (Aesthetica) - Artist | Aesthetics | History - In the Arena
 @Andercot (Andrew Côté) - engineering physicist. writes about deep tech, energy, physics, sci-fi and whatever. founder @hyperstition_x, organizes @deeptechweek
 @andrewrsorkin (Andrew Ross Sorkin) - @NYTimes Columnist/Editor & @SquawkCNBC Co-Anchor. Author, 1929, Coming Oct. 14 + Too Big To Fail. Founder, @DealBook. CoCreator, BILLIONS @Showtime. Proud Dad.
-@AndrewYang (Andrew Yang🧢⬆️🇺🇸) - Entrepreneur, Anti-Poverty, Human-Centered Economy, founder @fwd_party @humanityforward CEO @joinnoblemobile get paid to use your phone less
+@AndrewYang (Andrew Yang🧢⬆️🇺🇸) - Entrepreneur, Anti-Poverty, UBI, Human-Centered Economy, founder @fwd_party @humanityforward CEO @joinnoblemobile get paid to use your phone less
 @AndrewYNg (Andrew Ng) - Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs
 @andst7 (Andrea Stroppa 🐺 Claudius Nero's Legion 🐺) - investor in Tesla, xAI, Neuralink, SpaceX and whatever Elon does.
 @anime_twits (Anime Aesthetics) - Anime memes, clips, & more
@@ -200,7 +200,7 @@
 @Cmdr_Hadfield (Chris Hadfield) - Astronaut, back on Earth after 3 spaceflights. For events and media, please write to info@chrishadfield.ca Order books at https://t.co/Y7p3sa0MX3
 @CNES (CNES) - L'actu du CNES, le Centre National d'Études Spatiales. Retrouvez les 3 infos de la semaine chaque vendredi sur notre chaîne WhatsApp.
 @CNSAWatcher (CNSA Watcher) - CNSA news and updates on missions of Tiangong space station, Shenzhou crewed spaceships, Tianwen Zhurong Mars Rover, future CZ9 rocket, lunar stations, etc. Fan
-@CNviolations (Community Notes & Violations) - I'm the guy you go to for brutal community notes and violations. | DM submissions
+@CNviolations (Funny Community Notes) - I'm the guy you go to for brutal community notes and violations. | DM submissions
 @CoffeewClassics (CoffeeWithTheClassics) - Make Reading Great Literature a Daily Ritual
 @CollinRugg (Collin Rugg) - Co-Owner of Trending Politics | Investor | American 🇺🇸
 @collision (John Collison) - Co-founder of @stripe.
@@ -445,7 +445,7 @@
 @ianmiles (Ian Miles Cheong) - I say the quiet part out loud.
 @ibab (Igor Babuschkin) - Maybe the real ASI was the friends we made along the way. Co-founder @xAI, Research & Engineering
 @ICannot_Enough (James Stephenson) - @ElonMusk and I own Tesla (along with several other people).
-@ICEgov (U.S. Immigration and Customs Enforcement) - NOTICE: This account will not be actively managed during the lapse in federal funding. Read more: https://t.co/C1u431UuMV
+@ICEgov (U.S. Immigration and Customs Enforcement) - Protects America through criminal investigations and by enforcing immigration law to preserve national security and public safety. Privacy: https://t.co/ym5XoZMCUr
 @icreatelife (Kris Kashtanova) - Advanced AI workflows | job: Sr. Creative AI Evangelist & Community Advocate @Adobe | “Zarya of the Dawn”, "Rose Enigma" 1st AI copyrights | my views
 @ID_AA_Carmack (John Carmack) - AGI at Keen Technologies, former CTO Oculus VR, Founder Id Software and Armadillo Aerospace
 @IDF (Israel Defense Forces) - Official IDF X account. We post real-time information and updates from the field.
@@ -1167,7 +1167,6 @@
 @War_Mapper (War Mapper) - Mapping conflicts. https://t.co/RIV9hJSAVT
 @washghost1 (Washingtons ghost) - Stuff and things. Possibly a ghost. Vanilla villain. The everything account
 @Weaponization (Weaponization Committee) - Official account for the Select Subcommittee on the Weaponization of the Federal Government. Chairman @Jim_Jordan
-@webflite (Aviation) - Bringing your daily dose of Aviation!
 @WesleyHuntTX (Wesley Hunt) - Father, Husband, Army Veteran, West Point Graduate, Congressman TX-38, Candidate for U.S. Senate | Follow @HuntforSenate for updates (American/Apache Pilot)
 @westcoastbill (bill lee) - Ctrl-Alt-Del
 @WesternLensman (Western Lensman) - 🇺🇸 Video Producer | Politics | Media | American 🇺🇸
@@ -1194,6 +1193,7 @@
 @wudijo (wudijo) - #DiabloIV & #PathofExile2 Streamer/YouTuber/Theorycrafter & World First Racer. Director of Diablo Franchise on @maxrollgg Business: wudijo@dulcedo.com
 @xai (xAI) - 
 @X_ArtGallery (Art Gallery) - Art
+@xAviation (Aviation) - Bringing your daily dose of Aviation!
 @XboxP3 (Phil Spencer) - Head of Microsoft Gaming | #PowerYourDreams
 @XBusiness (Business) - Get better at X. Get better at business.
 @xDaily (X Daily News) - Your #1 News source on everything 𝕏 + xAI | Contributors: @HXMnCK, @LohanSimpson @xUpdatesRadar and @swak_12 I | Hit Follow and sign up for notifications! 🔔
