@@ -258,7 +258,7 @@
 @dhaval_shroff (Dhaval Shroff) - Autopilot AI @tesla | My trained networks drive the car better than my biological network does
 @DHSgov (Homeland Security) - With honor and integrity, we will safeguard the American people, our homeland, and our values. #WeAreDHS
 @Diablo (Diablo) - ESRB Rating: MATURE with Blood and Gore, Intense Violence, Language. #DiabloIV is available now. Welcome to Hell 🌹
-@diana_dukic (Diana Dukic) - Hi
+@diana_dukic (Diana Dukic) - Angel investor, serial entrepreneur, Forbes 30 under 30, visionary, thought leader and innovator who's passionately making an impact. My opinions are my own.
 @DicksonLaw8 (Dickson Law) - 
 @Diegopasini (Diego) - seeking truth @xai
 @DieselPeltz (Diesel Peltz) - 
@@ -301,7 +301,7 @@
 @DurantQuotesBot (Will Durant (Quotes)) - Daily quotes from the historian of civilization!
 @durov2025 (Pavel Durov) - 
 @durov (Pavel Durov) - Founder, CEO at @telegram (2013), founder, ex-CEO of @vkontakte (2006), part-time troll.
-@dustinvtran (Dustin Tran) - I work on reasoning & posttraining at xAI. ex-google
+@dustinvtran (Dustin Tran) - post-training lead at xAI. ex-google
 @dvorahfr (Déborah) - Exhibition of my AI Illustrations and videos by Grok Imagine, Midjourney , Kling AI, Minimax, Luma, Higgsfield and Art of all kinds! Follow me for Art
 @dwarkesh_sp (Dwarkesh Patel) - Host of @dwarkeshpodcast https://t.co/3SXlu7fy6N https://t.co/4DPAxODFYi https://t.co/hQfIWdM1Un
 @dwr (Dan Romero) - Working on Farcaster.
@@ -333,12 +333,12 @@
 @EricRWeinstein (Eric Weinstein) - Interested in prebunked malinformation.
 @Eric_Schmitt (Eric Schmitt) - Husband • Dad • United States Senator for Missouri • Diehard #STLCards fan
 @EricTrump (Eric Trump) - Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Advocate of @StJude. @WorldLibertyFi @ABTC #MakeAmericaGreatAgain
-@ericzelikman (Eric Zelikman) - building for humans @humansand // was lgtm-ing @xAI, phd-ing @stanford
+@ericzelikman (Eric Zelikman) - building ai for humans @humansand // was lgtm-ing @xAI, phd-ing @stanford
 @esa (European Space Agency) - #50YearsOfESA: we're the European Space Agency, keeping you posted on European space activities. Please see our Privacy Notice: https://t.co/UkkEqaJOwd
 @ESA_fr (ESA France) - Suivez toute l'actu de l'ESA, l'Agence spatiale européenne
 @ESYudkowsky (Eliezer Yudkowsky ⏹️) - The original AI alignment person. Understanding the reasons it's difficult since 2003. This is my serious low-volume account. Follow @allTheYud for the rest.
 @Etched (Etched) - Maybe attention is all you need…
-@EthanHe_42 (Ethan He) - AI @xai | @grok Imagine, Multimodal | prev @nvidia @meta @CarnegieMellon | 8k citations 5k GitHub stars | views are my own
+@EthanHe_42 (Ethan He ✈️ NeurIPS) - AI @xai | @grok Imagine, Multimodal | prev @nvidia @meta @CarnegieMellon | 8k citations 5k GitHub stars | views are my own
 @EuropaClipper (ARCHIVED - NASA Europa Clipper) - NASA's Europa Clipper mission is on its way to find out if the conditions are right for life on Jupiter's icy moon Europa. Follow @NASASolarSystem for updates.
 @EvaFox (Eva Fo𝕏 🦊 Claudius Nero's Legion) - Blogger covering SpaceX, Tesla, environment & space exploration 🖖🏼 ◉ My blog @onlyVerumNews ◉ Occasionally post memes
 @EvaLovesDesign (Elle Lookbook) - Style 👑 romantic, a touch of rustic, splash of whimsy, old world elegance 🏛️, a warm embrace with a glass of 🥂.    Me 🥐.   🖼️dm for credit or removal
@@ -448,7 +448,7 @@
 @ibab (Igor Babuschkin) - Maybe the real ASI was the friends we made along the way. Co-founder @xAI, Research & Engineering
 @ICannot_Enough (James Stephenson) - @ElonMusk and I own Tesla (along with several other people).
 @ICEgov (U.S. Immigration and Customs Enforcement) - Protects America through criminal investigations and by enforcing immigration law to preserve national security and public safety. Privacy: https://t.co/ym5XoZMCUr
-@icreatelife (Kris Kashtanova) - AI workflows & prompts | job: Sr. Creative AI Evangelist & Community Advocate @Adobe | “Zarya of the Dawn”, "Rose Enigma" 1st AI copyrights | my views
+@icreatelife (Kris Kashtanova) - AI workflows & coding with AI | job: Sr. Creative AI Evangelist & Community Advocate @Adobe | “Zarya of the Dawn”, "Rose Enigma" 1st AI copyrights | my views
 @ID_AA_Carmack (John Carmack) - AGI at Keen Technologies, former CTO Oculus VR, Founder Id Software and Armadillo Aerospace
 @IDF (Israel Defense Forces) - Official IDF X account. We post real-time information and updates from the field.
 @IfindRetards (Retard Finder) - I find retards and their posts on X.
@@ -495,7 +495,7 @@
 @jimkxa (Jim Keller) - CEO @tenstorrent, Cofounder @atomic_semi @BayaSystems, FlexAI, AheadComputing board member. Fan of 2x2 matrixes, books, refactoring and creative tension
 @jimmybajimmyba (Jimmy Ba) - Pumping MPI (mins per intervention) up
 @jjfactorykat (Jessica Jensen) - SpaceX-Vice President, Customer Operations and Integration.
-@jk_rowling (J.K. Rowling) - Writer sometimes known as Robert Galbraith
+@jk_rowling (J.K. Rowling) - Author Founder of Lumos and Beira's Place Surname rhymes with Bowling, not Growling
 @JMilei (Javier Milei) - Economista
 @jmusk (James Musk) - Currently ⛳️🎾🏄🏻‍♂️🪁Formerly Engineering @X @Tesla_AI
 @jnnfir (Heather ‘Jenn Fir’ Jones 🌲) - @xAI • CEO @ElkhornPro—terraforming Earth w/ #NatRefs • Award-winning author, futurist • 🇺🇸 war veteran • @LIGO @boeing @webflow @microsoft @riotgames
@@ -713,6 +713,7 @@
 @Nigel_Lockyer (Nigel Lockyer) - I am the new Director of Cornell Laboratory for Accelerator-based ScienceS and Education. @CornellCLASSE
 @NIHDirector_Jay (Jay Bhattacharya, MD, PhD) - Official account of Jay Bhattacharya, the 18th @NIH Director. Privacy: https://t.co/pcNDp62J5S
 @NIH (NIH) - Official account of the National Institutes of Health. NIH...Turning Discovery Into Health®.   Privacy Policy: https://t.co/wOGwZ3gX1M Engagement ≠ endorsement
+@nikhilkamathcio (Nikhil Kamath) - Investor & Entrepreneur
 @nikitabier (Nikita Bier) - head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)
 @nikolas_dm (Nikolas Ferreira) - - Dep. Federal mais votado do Brasil e da história de Minas Gerais 🇧🇷 - Most voted congressman in Brazil & in the history of Minas Gerais. 🇺🇸
 @NikoWrex (NikoWrex) - Family, Work, Exercise, Gaming! Blessed beyond measure.
@@ -807,7 +808,7 @@
 @RealRonHoward (Ron Howard) - Family Man & StorySmith Co-Founder of Imagine Entertainment
 @RealTomHoman (Thomas D. Homan) - Border Czar for President Donald J. Trump
 @reason (reason) - Reason is the monthly magazine and website of “free minds and free markets” published by @ReasonFdn.
-@redbullracing (Oracle Red Bull Racing) - It's still on... 🍿
+@redbullracing (Oracle Red Bull Racing) - IT IS STILL ON! 🍿
 @reddit_lies (Reddit Lies) - Misinformation is the bread and butter of the “free thinking high IQ” denizens of Reddit. Ephesians 5:11. DMs open for submissions.
 @redditSpaceView (Space) - Welcome, this account is devoted to high-quality images of space, sharing quality astrophotography
 @RedEagleUpdates (Red Eagle Updates 🦅🇺🇸) - 🚨Red Eagle Updates🦅| Fan-run political commentary 🎯Following the Trump movement & American politics 🗳Independent insights – Not affiliated with any campaign
@@ -1047,7 +1048,7 @@
 @tesla_singapore (Tesla Singapore) - Accelerating the world's transition to sustainable energy
 @Tesla (Tesla) - Electric vehicles, giant batteries & solar, AI & robotics
 @Tesmanian_com (Tesmanian.com) - Tesla, SpaceX, Elon Musk and related News+Info.
-@tetsuoai (TΞTSUØ) - ✧ ℭ𝔖/𝔐𝔞𝔱𝔥 – ℭ & 𝔄𝔰𝔰𝔢𝔪𝔟𝔩𝔶 𝔰𝔦𝔫𝔠𝔢 ’94 ✧ ✧ 𝔪𝔬𝔤/𝔞𝔠𝔠 🇺🇸 ✧
+@tetsuoai (tetsuo) - ℭ & 𝔄𝔰𝔰𝔢𝔪𝔟𝔩𝔶 𝔰𝔦𝔫𝔠𝔢 ’94
 @TexasLindsay (TexasLindsay™) - JMFF Fellow | Free Speech Cognoscente | See Highlights Tab for #TwitterFiles Coverage | Auburn University Alum | War Eagle 🦅🇺🇸
 @thackerpd (Paul D. Thacker) - Journalist; Former Investigator U.S. Senate; Former Safra Ethics Center, Harvard. https://t.co/aD6NkYzjqM
 @thatsKAIZEN (Kaizen D. Asiedu) - I help you cut through media biases and see the nuances. Harvard ‘12, Emmy Winner.
@@ -1094,7 +1095,7 @@
 @tim_zaman (Tim Zaman) - Frontier Clusters at OpenAI. Previously DeepMind, Tesla AP, X/Twitter (head of AI Infra), NVIDIA.
 @tingchenai (Ting Chen) - building multimodal AGI
 @TMobile (T-Mobile) - My Tweets are like the Sidekick ... they never go out of style
-@tobi (tobi lutke) - Shopify CEO by day, Dad in evening, hacker at night. Aspiring comprehensivist. "Beacuase I like Canada"
+@tobi (tobi lutke) - Shopify CEO by day, Dad in evening, hacker at night. Aspiring comprehensivist. "Because I like Canada"
 @TobyPhln (Toby Pohlen) - Founding member @xAI. Previously @GoogleDeepMind. @RWTH alumnus.
 @TodaysNewsco (Today’s News) - Global News | Politics | Sports | Business | Tech | Entertainment 📰
 @ToddMaron (Todd Maron) - FIGS Chief Legal Officer, former Tesla General Counsel
@@ -1223,7 +1224,7 @@
 @yunta_tsai (Yun-Ta Tsai) - Sr. Staff Engineer @Tesla_AI
 @yusufdikec (Yusuf Dikec) - 2024 Paris Olimpiyatlarının kazananı Rahatlik ve Sadelik. TUR🇹🇷
 @zebulgar (delian) - space drugs and arms @vardaspace | village idiot/partner @foundersfund
-@zeeshanp_ (Zeeshan Patel) - @xAI | @grok imagine/multimodal | prev research @nvidia @apple @berkeley_ai | views my own
+@zeeshanp_ (Zeeshan Patel ✈️ NeurIPS) - @xAI | @grok imagine/multimodal | prev research @nvidia @apple @berkeley_ai | views my own
 @ZelenskyyUa (Volodymyr Zelenskyy / Володимир Зеленський) - President of Ukraine / Президент України
 @zeliu_ (Ze Liu) - @xAI (Grok Video Gen, Grok Vision, Grok Voice Mode, Grok3). ICCV 21 Marr Prize.
 @zephyr_z9 (Zephyr) - DMs are open Subscribe on X to read my articles on tech, AI, semiconductors
