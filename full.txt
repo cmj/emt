@@ -339,7 +339,7 @@
 @ESA_fr (ESA France) - Suivez toute l'actu de l'ESA, l'Agence spatiale européenne
 @ESYudkowsky (Eliezer Yudkowsky ⏹️) - The original AI alignment person. Understanding the reasons it's difficult since 2003. This is my serious low-volume account. Follow @allTheYud for the rest.
 @Etched (Etched) - Maybe attention is all you need…
-@EthanHe_42 (Ethan He) - AI @xai | @grok Imagine, Multimodal | prev @nvidia @meta @CarnegieMellon | 8k citations 5k GitHub stars | views are my own | ✈️ NeurIPS 2025
+@EthanHe_42 (Ethan He) - AI @xai | @grok Imagine, Multimodal | prev @nvidia @meta @CarnegieMellon | 8k citations 5k GitHub stars | views are my own
 @EuropaClipper (ARCHIVED - NASA Europa Clipper) - NASA's Europa Clipper mission is on its way to find out if the conditions are right for life on Jupiter's icy moon Europa. Follow @NASASolarSystem for updates.
 @EvaFox (Eva Fo𝕏 🦊 Claudius Nero's Legion) - Blogger covering SpaceX, Tesla, environment & space exploration 🖖🏼 ◉ My blog @onlyVerumNews ◉ Occasionally post memes
 @EvaLovesDesign (Elle Lookbook) - Style 👑 romantic, a touch of rustic, splash of whimsy, old world elegance 🏛️, a warm embrace with a glass of 🥂.    Me 🥐.   🖼️dm for credit or removal
@@ -1133,6 +1133,7 @@
 @tyler (Tyler Winklevoss) - Co-Founder @gemini, @cypherpunktech, @winklevosscap Vocals @marsjunction
 @tylervstorm (Tyler Storm) - speedrunning @xAI
 @uaustinorg (University of Austin (UATX)) - UATX is ending tuition forever: https://t.co/Iyc5SjBWxU
+@UnderSecPD (Under Secretary of State Sarah B. Rogers) - Official account of @StateDept’s Under Secretary for Public Diplomacy.
 @unherd (UnHerd) - Challenging the herd with new and bold thinking in philosophy, politics and culture. Dare to think for yourself, subscribe to UnHerd here: https://t.co/zUxzdsSoTQ
 @united (United Airlines) - You’ve landed at the ✨official account✨ for United Airlines, where everyone is the main character on our flights. DM directly for assistance.
 @universal_sci (Universal-Sci) - The official Universal-Sci account - Providing you with a selection of the most interesting science-related news and background stories
