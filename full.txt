@@ -300,7 +300,7 @@
 @DrJimFan (Jim Fan) - NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.
 @DrKnowItAll16 (DrKnowItAll) - YouTube channel on Tesla, AI, etc. UGA professor. CEO of https://t.co/Kq9SjojMIz. Biological AI Bootloader. Call me John.
 @DrOzCMS (DrOzCMS) - Official X account for the @CMSGov Administrator, Dr. Mehmet Oz
-@DrPatSoonShiong (Dr. Pat Soon-Shiong) - Chairman of Chan Soon-Shiong Family Foundation, Exec Chairman ImmunityBio, Chairman and Chief Executive Officer of Los Angeles Times Media Group (LATMG)
+@DrPatrick (Dr. Pat Soon-Shiong) - Chairman of Chan Soon-Shiong Family Foundation, Exec Chairman ImmunityBio, Chairman and Chief Executive Officer of Los Angeles Times Media Group (LATMG)
 @DrPhil (Dr. Phil) - Talking about things that matter to people who care.
 @DurantQuotesBot (Will Durant (Quotes)) - Daily quotes from the historian of civilization!
 @durov2025 (Pavel Durov) - 
@@ -342,7 +342,7 @@
 @ESA_fr (ESA France) - Suivez toute l'actu de l'ESA, l'Agence spatiale européenne
 @ESYudkowsky (Eliezer Yudkowsky ⏹️) - The original AI alignment person. Understanding the reasons it's difficult since 2003. This is my serious low-volume account. Follow @allTheYud for the rest.
 @Etched (Etched) - Maybe attention is all you need…
-@EthanHe_42 (Ethan He) - AI @xai | @grok Imagine, Multimodal | prev @nvidia @meta @CarnegieMellon | 9k citations 40k GitHub stars | views are my own
+@EthanHe_42 (Ethan He) - video generation @xAI @Grok Imagine | 30+ AI papers, 9k citations | prev @Nvidia @Meta | talk about machine learning, LLM, world model, multimodal, and AGI.
 @EuropaClipper (ARCHIVED - NASA Europa Clipper) - NASA's Europa Clipper mission is on its way to find out if the conditions are right for life on Jupiter's icy moon Europa. Follow @NASASolarSystem for updates.
 @EvaFox (Eva Fo𝕏 🦊 Claudius Nero's Legion) - Blogger covering SpaceX, Tesla, environment & space exploration 🖖🏼 ◉ My blog @onlyVerumNews ◉ Occasionally post memes
 @EvaLovesDesign (Elle Lookbook) - Style 👑 romantic, a touch of rustic, splash of whimsy, old world elegance 🏛️, a warm embrace with a glass of 🥂.    Me 🥐.   🖼️dm for credit or removal
@@ -575,7 +575,7 @@
 @latentspacepod (Latent.Space) - The #1 AI Engineering podcast & newsletter. Technical insights and news today you will use at work tomorrow! Hosted by @swyx and @fanahova
 @laurenboebert (Lauren Boebert) - Lauren Boebert for Congress: CO-04 Congresswoman, Mom & Gigi with a fierce love for liberty. Sent to DRAIN THE SWAMP drier than a CO irrigation ditch in July.
 @LaurenDreyer (Lauren Dreyer) - @SpaceX since 2006 | VP of Starlink Business Operations | Verified and SpaceX-affiliated account, all others fake.
-@Lauren_Southern (Lauren Southern) - Author & one woman PR crisis 😉 Queries: contactlsouthern@gmail.com
+@Lauren_Southern (Lauren Southern) - Author & one woman PR crisis 😉 THIS IS NOT REAL LIFE 📖
 @LeaderJohnThune (Leader John Thune) - Senate Majority Leader. Representing South Dakota. Father. Grandfather. Husband. Sports Fan. Avid Outdoorsman. Hates Shoveling Snow.
 @leezeldin (Lee Zeldin) - Dad, Husband, Army Lieutenant Colonel, Former U.S. Congressman, 17th EPA Administrator @EPALeeZeldin.
 @LeVeonBell (Le'Veon Bell) - life is about living
@@ -862,7 +862,7 @@
 @r_jegaa (Raj Jegannathan) - AI/IT-Infra, CyberSecurity,IT Apps & Vehicle Service @Tesla
 @rkoti9 (rkoti) - 
 @rmac (rmac) - 
-@RMistereggen (Rebecca Mistereggen) - Norwegian 🇳🇴 Journalist / Help me keep my caffeine levels up, buy me a coffee: https://t.co/H13QwkZomE
+@RMistereggen (Rebecca Mistereggen) - Norwegian 🇳🇴 Journalist / Creator and host of Raw Report. Help me keep my caffeine levels up, buy me a coffee: https://t.co/H13QwkZomE
 @Rob_2628 (Rob2628) - Hi I'm Rob. I post about Gaming, @Diablo & @pathofexile & stream efficient, high-quality gameplay! https://t.co/aEk18dC723 Business: rob@epictalent.gg
 @robbystarbuck (Robby Starbuck) - Filmmaker/Host • Latino • America 1st • Used to Direct Stars, Now I Fight For 🇺🇸 • ❤️ @LandonStarbuck • Dad • Visiting Fellow @Heritage • https://t.co/wi7k3h7sTJ
 @RobertIger (Robert Iger) - CEO The Walt Disney Company
@@ -1032,6 +1032,7 @@
 @teardowntitan (Sandy Munro) - Founder of Munro & Associates
 @techAU (techAU) - Technology, Reviews, Hardware, Gaming, EVs, Renewables from Australia & around the world since 2006. Disclosure: Small position in $TSLA
 @techdevnotes (Tech Dev Notes) - Notes on tech | https://t.co/L0xyXaUV2y
+@Techmeme (Techmeme) - Top news and commentary for technology's leaders, from all around the web. This account shares top-level Techmeme headlines. Visit our site for full context.
 @TEDchris (Chris Anderson) - Head of TED. Dreamer. Most days an optimist. TED = free talks on the web in Technology, Entertainment, Design & ideas worth spreading. https://t.co/5OMY86h3d0
 @tedcruz (Ted Cruz) - Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.
 @TEDTalks (TED Talks) - TED is a nonprofit devoted to the ideas shaping tomorrow. 🔴
@@ -1164,7 +1165,7 @@
 @ValsAI (Vals AI) - Public LLM Evaluation // https://t.co/FjWabQY2jk @8vc @BloombergBeta @pearvc
 @VastoLorde95 (Aditya Paliwal) - 
 @veggie_eric (Eric Jiang) - Eat your veggies
-@venturetwins (Justine Moore) - Partner @a16z AI 🤖 and twin to @omooretweets | Investor in @elevenlabsio, @krea_ai, @bfl_ml, @hedra_labs, @wabi, @WaveFormsAI, @ViggleAI, & more
+@venturetwins (Justine Moore) - Partner @a16z AI 🤖 and twin to @omooretweets | Investor in @elevenlabsio, @krea_ai, @bfl_ml, @hedra_labs, @wabi, @WaveFormsAI, @ViggleAI, @MireloAI
 @victormustar (Victor M) - 🤗 Head of Product @huggingface
 @viewsoff_ (VIEW) - Discover whole world | Don't own content post | For credit or removal DM please.
 @VigilantFox (Vigilant Fox 🦊) - Media company founded by a healthcare professional turned independent journalist. Exposing the stories mainstream outlets bury.
