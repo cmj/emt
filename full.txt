@@ -91,7 +91,7 @@
 @arnogau (Arno) - grok web @xAI | prev founder @iudexai | prev eng @scale_AI, @googlex
 @ArtemisConsort (Hunter Ash) - Kill the lie so the truth may live
 @ArtificialAnlys (Artificial Analysis) - Independent analysis of AI models and hosting providers - choose the best model and API provider for your use-case
-@art_muse (Art Muse) - Sharing AI art, musings, & moments that spark the soul. Animation by Grok Imagine
+@art_muse (Art Muse) - Sharing AI art, musings, & moments that spark the soul.
 @arxivblog (@arxivblog) - Science, emerging technology, insight. Now at Substack, previously at Technology Review, Medium and Discover Magazine
 @as400495 (Edward Coristine) - @ndstudio - some call me big balls
 @ashleevance (Ashlee Vance) - Writing at https://t.co/m6EtO60SiY and host of the Core Memory podcast. 2X NYT best-seller. Filmmaker @HBO (Wild, Wild Space) + @Netflix (Don't Die).
@@ -167,7 +167,7 @@
 @CathieDWood (Cathie Wood) - Founder, CEO and CIO @ARKinvest. Thematic portfolio manager for disruptive innovation, mom, economist, and women's advocate. Disclosure: https://t.co/chxRD4oWOd
 @cb_doge (DogeDesigner) - 
 @cboyack (Connor Boyack 📚) - President @Libertas, @kidsmarkets, @join_praxis. Author 52 books (7M sold) incl. @tuttletwins. Exec Producer @tuttletwinstv. Public speaker, outlaw beekeeper 🐝
-@cbssaturday (CBS Saturday Morning) - Welcome to the weekend! Join us for two hours of news and profiles of leading figures in culture and the arts.
+@cbssaturday (CBS Saturday Morning) - Welcome to the weekend! Join @AdrianaDiaz and @TheKellyOGrady for two hours of news and profiles of leading figures in culture and the arts.
 @CENTCOM (U.S. Central Command) - The official account of U.S. Central Command.
 @CERN (CERN) - CERN is the European laboratory for particle physics, home to the #LHC. — All media © CERN, human-generated unless otherwise stated. French: @CERN_FR
 @Cernovich (Cernovich) - The best protein bars and pre-workouts. Use MC10 for 10% off. 👇
@@ -358,7 +358,7 @@
 @EVerastegui (Eduardo Verástegui) - ¡Viva Cristo Rey! ¡Viva la Virgen de Guadalupe! ¡Viva México! Productor de Bella, Little Boy, Sound of Freedom, Cabrini, Zero A.D. y próx. Sound of Freedom 2.
 @ezralevant (Ezra Levant 🍁🚛) - Journalist, publisher of Rebel News — telling the other side of the story. Awarded the Queen’s Diamond Jubilee Medal for advancing freedom of expression.
 @FAANews (The FAA ✈️) - Official account of the Federal Aviation Administration. Following, mention or RP does not mean endorsement.
-@farzyness (Farzad) - Human.
+@farzyness (Farzad 🇮🇷) - Human.
 @fasc1nate (Fascinating) - Posting interesting science, gadgets, history, art, and more. Subscribe for in-depth posts. As an Amazon Associate I earn from qualifying purchases.
 @FBIDDBongino (Dan Bongino) - This account is no longer active. Please visit @FBI or @FBIDirectorKash.
 @FBIDirectorKash (FBI Director Kash Patel) - Director of the Federal Bureau of Investigation, #9
@@ -388,7 +388,7 @@
 @Gfilche (Gali) - writing a book about investing in @Tesla 📕⚡HyperChange also this is my artisanal tea brand @galileotea
 @ggreenwald (Glenn Greenwald) - Journalist ; Author; Host, @SystemUpdate_; Columnist, @Folha; Founder: @TheInterceptBr; Co-Founder: @FreedomofPress, @idm_org; @abrigo_hope; Vegan.
 @GigaBasedDad (Giga Based Dad) - Unapologetically Christian ✝️ - Husband and Father. Rancher. Homesteader. Raising Cows, Horses, Chickens, and Children.
-@gigadgets_ (GiGadgets) - We share the coolest gadgets, smart tech, and the latest innovations to keep you curious and inspired. PR: gigadgetstech@gmail.com
+@gigadgets_ (GiGadgets) - We share some cool gadgets, smart tech, and good laughs to keep you curious, inspired, and happy. PR: gigadgetstech@gmail.com
 @gigafactories (Tesla Manufacturing) - Building a sustainable future
 @Gillis_SarahE (Sarah Gillis) - Mission Specialist on Polaris Dawn. CU Boulder graduate, coffee addict, avid hiker and adventurer!
 @GiorgiaMeloni (Giorgia Meloni) - Presidente del Consiglio dei Ministri della Repubblica Italiana
@@ -708,7 +708,7 @@
 @NASASpaceflight (NSF - NASASpaceflight.com) - Official Account of NSF. News, videos, and community for spaceflight enthusiasts since 2005. NSF is not affiliated with NASA, initials used with permission.
 @NASAWebb (NASA Webb Telescope) - The world's most powerful space telescope. Launched: Dec. 25, 2021. First images revealed: July 12, 2022. Verification: https://t.co/ChOEslj1j5
 @nataliegwinters (Natalie Winters) - Bannon's War Room Co-Host & White House Correspondent | UChicago Grad | 💖🇺🇸
-@Nate_Esparza (Nate Esparza) - Ads Product @X | CU-Boulder Alumni Lead | Sports | Tech | Opinions are my own
+@Nate_Esparza (Nate Esparza) - Ads Product @X | CU-Boulder Alumni Lead | Sports | Tech | Opinions are my own |
 @natemcgrady (Nate) - security @vercel | prev: security/software @x, cyber warfare @usnavy
 @NateSilver538 (Nate Silver) - New Book, On The Edge, #5 NYT Bestseller! https://t.co/WeCLEOd4Be
 @natfriedman (Nat Friedman) - https://t.co/Lhh178sIjq
@@ -748,6 +748,7 @@
 @Not_the_Bee (Not the Bee) - What a time to 🐝 alive. Personal thoughts shared as posts or replies from this account are usually those of our CEO, @dandillondev
 @NRO_gov (NRO) - Official X account of the National Reconnaissance Office—Innovative Overhead Intelligence Systems for National Security. Follows/RTs are not endorsements.
 @NTSB_Newsroom (NTSB Newsroom) - NTSB_Newsroom is the official account of NTSB Media Relations, providing timely and official information about newsworthy NTSB activities.
+@null (null) - null
 @nvidianewsroom (NVIDIA Newsroom) - The official newsroom for NVIDIA. Innovation delivered daily.
 @OfficialLoganK (Logan Kilpatrick) - Lead product for @GoogleAIStudio & Gemini API. My views!
 @OfficialPCMR (PCMR) - The official twitter of the #PCMR. We're both the biggest and the fastest-growing PC enthusiasts community in the world. Since 2011. Run by @PedroPCMR
@@ -775,7 +776,7 @@
 @PaulIngrassia (Paul Ingrassia) - Acting General Counsel of the General Services Administration (GSA)
 @payamabe (Payam) - 
 @PeteHegseth (Pete Hegseth) - Christian | American | Husband | Father | Author | Veteran | SECWAR | My views are my own. Official accounts: @SecWar & @DeptofWar
-@PeterDiamandis (Peter H. Diamandis, MD) - Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan.
+@PeterDiamandis (Peter H. Diamandis, MD) - Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360
 @Peter_J_Beck (Peter Beck) - Rocket Lab
 @peterrhague (Peter Hague) - Solutionist. Astrophysics PhD and scientific software engineer. Dad of 2. Let’s colonise the solar system together. Please visit the link below to read my blog:
 @PeterSweden7 (PeterSweden) - I'm Peter Imanuelsen | Swedish journalist | Political commentator | Supporter of freedom, kindness and liberty | Contact inquiries: See my website
@@ -865,7 +866,6 @@
 @RGVaerialphotos (RGV Aerial Photography) - Starbase, TX Photographer. Support us here: https://t.co/R5FvBE7ljj Direct any commercial media usage inquiries to MediaRGVAerial@gmail.com
 @RichardDawkins (Richard Dawkins) - UK biologist & writer. Richard Dawkins Foundation donor: https://t.co/rZZdjPoMUe. For Details about the Upcoming Tour: https://t.co/sSo5FL6CWb
 @RichardGarriott (Richard Garriott) - President Emeritus @ExplorersClub; a Videogame Industry Founding Father; Astronaut, Aquanaut, Polar Explorer; Family: @Ronin_British, @Kinga_British
-@RichardGrenell (Richard Grenell) - I’m stronger after cancer. my dog runs my life. imperfect follower of Christ. Tweets automatically delete after 30 days https://t.co/id5AM52MEZ
 @RickRieder (Rick Rieder) - @BlackRock CIO of Global Fixed Income | Emory and Wharton Alum | Go Orioles! Lead PM for BINC, BSIIX, MALOX, MAWIX Content intended for a U.S. audience
 @RickRubin (Rick Rubin) - music enthusiast
 @rickygervais (Ricky Gervais) - comedy god
@@ -1244,7 +1244,7 @@
 @XFreeze (X Freeze) - 
 @X_Futurist (The Architect) - Architect of the Future☄️
 @XGaming (Gaming) - videogames
-@xiaosun86 (xiao sun) - 細雨騎驢入劍門。
+@xiaosun86 (xiao sun) - 一笑出門去， 千里落花風。
 @xkcdComic (XKCD Comic) - XKCD comic feed with images and mobile friendly links. Unofficial, feed run by @dghubble
 @xkcd (Randall Munroe) - I draw the comic xkcd
 @X (X) - what's happening?!
@@ -1259,7 +1259,7 @@
 @zeeshanp_ (Zeeshan Patel) - @xAI | @grok imagine/multimodal | prev research @nvidia @apple @berkeley_ai | views my own
 @ZelenskyyUa (Volodymyr Zelenskyy / Володимир Зеленський) - President of Ukraine / Президент України
 @zeliu_ (Ze Liu) - @xAI (Grok Video Gen, Grok Vision, Grok Voice Mode, Grok3). ICCV 21 Marr Prize.
-@zephyr_z9 (Zephyr) - Subscribe on X to read my articles on tech, AI, semiconductors. DMs open.
+@zephyr_z9 (Zephyr) - DMs open.
 @zerohedge (zerohedge) - 
 @ZiaYusufUK (Zia Yusuf) - Head of Policy, Reform UK 🇬🇧
 @ziggyfro (Daniel Frohlich) - Love life, laughs, family, space, rockets, gadgets, things that fly, technology, metric system, good food, purple, dad jokes. USC / SpaceX / Boring. mIRC:X-Fly
