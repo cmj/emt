@@ -122,7 +122,7 @@
 @BBC_Future (BBC Future) - Making you smarter, every day.
 @BBCScienceNews (BBC Science News) - News, features and analysis from the BBC Science & Environment news desk.
 @bchesky (Brian Chesky) - Airbnb
-@beffjezos (Beff (e/acc)) - founder @ e/acc // building thermo compute @extropic // memetic warlord // Kardashev gradient climber
+@beffjezos (Beff (e/acc)) - founder @ e/acc // thermo king @extropic // Kardashev scaling is all you need
 @belce_dogru (Belce Doğru Pattabi) - 
 @benhabib6 (Ben Habib) - Leader of @_AdvanceUK and Chairman of the @GreatBritishPac. Standing for a proud, independent, sovereign, prosperous United Kingdom. 🇬🇧🇬🇧🇬🇧
 @Benioff (Marc Benioff) - ceo@salesforce.com chair@time.com
@@ -500,7 +500,7 @@
 @jeffreytucker (Jeffrey A Tucker) - Prez @brownstoneinst. Author/publisher https://t.co/Q0SHhihQdJ Daily @epochtimes https://t.co/bo8cI11ujC Speaking: https://t.co/2YmZPtXaQo
 @jeffreyweichsel (Jeffrey Weichsel) - 
 @jeffskoll (Jeffrey Skoll) - Founder/Chairman Participant Media, Skoll Foundation, Capricorn Investment Group, Jeff Skoll Group, TPG Rise Fund, Partner Monumental Sports Entertainment
-@JeremyDBoreing (Jeremy Boreing) - Co-Founder of @realDailyWire and @JeremysRazors.
+@JeremyDBoreing (Jeremy Boreing) - Series Creator: The Pendragon Cycle, Co-Founder of @realDailyWire and @JeremysRazors.
 @jespow (Jesse Powell) - Co-Founder & Chairman @KrakenFX Founder @Verge_Arts Former pro player @Wizards_Magic #VirtualGoods🎮 Peddler since 2001 #NFT🖼️ Hoarder #Bitcoin Enthusiast
 @JesseBWatters (Jesse Watters) - “The Five” & “Jesse Watters Primetime” on Fox News Channel #1 NYT Best Selling Author of “How I Saved The World” and “Get It Together”
 @JessePeltan (Jesse Peltan) - On a mission to build Type 1 Civilization and restore the biosphere
@@ -834,7 +834,6 @@
 @realDailyWire (Daily Wire) - Official X account of The Daily Wire.
 @realDonaldTrump (Donald J. Trump) - 45th & 47th President of the United States of America🇺🇸
 @realGeorgeHotz (George Hotz 🌑) - President @comma_ai. Founder @__tinygrad__
-@realhomerhickam (Homer Hickam) - Author, RocketBoys/OctoberSky & many others. Worked for NASA, VN Vet, dino hunter, scuba instr, & SpaceCampUSA board. Publisher, Homer Hickam Books
 @realJeremyCarl (Jeremy Carl) - Senior Fellow @claremontinst. Former Research Fellow @hooverinst and U.S. Dep. Asst. Sec. of the Interior. Longtime senior aide to George P. Shultz.
 @realMaalouf (Dr. Maalouf ‏) - 🚨Breaking News | ⚔️History 🗺️Geopolitics
 @RealRonHoward (Ron Howard) - Family Man & StorySmith Co-Founder of Imagine Entertainment
@@ -1030,7 +1029,7 @@
 @Steven_Ballmer (Steve Ballmer) - Lots going on: follow what's new @LAClippers 🏀 and @USAFacts 📊. Also busy with @BallmerGroup.
 @StevenCheung47 (Steven Cheung) - Assistant to the President & White House Director of Communications. Personal: @StevenCheung 🎩
 @stevenmackeyman (Steven Mackey) - Politics | Religion | Memes | 🫥 @circumpunctlore
-@stevenmarkryan (stevenmarkryan) - I make the occasional video and own a bit of $TSLA. SOLVING THE MONEY PROBLEM. Subscribe on X for early access to daily videos. ➡️ My DMs are open.
+@stevenmarkryan (stevenmarkryan) - ► Daily videos for $TSLA investors 📈 ► Content for fans of common sense ► Want early access? Subscribe on X ► aka "Solving The Money Problem". ► I read my DMs
 @SteveWitkoff (Steve Witkoff) - Ambassador at Large and Special Envoy to the Middle East
 @stocktalkweekly (Stock Talk) - AHEAD OF THE HERD ™ | See our full portfolio and all live entries/exits at https://t.co/nPDCUmGbv2
 @sturnerofficial (Scott Turner) - Personal account for Secretary of HUD | Fmr Exec. Dir of WH Opportunity Zones | Founder @communityeoc | Fmr NFL Player
@@ -1247,6 +1246,7 @@
 @XBusiness (Business) - Get better at X. Get better at business.
 @xDaily (X Daily News) - Your #1 News source on everything 𝕏 + xAI | Contributors: @HXMnCK, @LohanSimpson @xUpdatesRadar and @swak_12 I | Hit Follow and sign up for notifications! 🔔
 @XData (Data) - X by the numbers
+@XDepartmant (X – Legal Department) - Official Copyright & Rights management account for @Support.
 @XDevelopers (Developers) - The voice of the X Dev team and your official source for updates, news, and events, related to the X API.
 @XEng (Engineering) - updates from our engineering team
 @XFreeze (X Freeze) - 
