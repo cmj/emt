@@ -344,7 +344,7 @@
 @EricRWeinstein (Eric Weinstein) - Interested in prebunked malinformation.
 @Eric_Schmitt (Eric Schmitt) - Husband • Dad • United States Senator for Missouri • Diehard #STLCards fan
 @EricTrump (Eric Trump) - Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Advocate of @StJude. @WorldLibertyFi @ABTC #MakeAmericaGreatAgain
-@ericzelikman (Eric Zelikman) - building ai for humans @humansand // was lgtm-ing @xAI, phd-ing @stanford
+@ericzelikman (Eric Zelikman) - building ai for humans @humansand (cofounder & ceo) // was lgtm-ing @xAI, phd-ing @stanford
 @esa (European Space Agency) - #50YearsOfESA: we're the European Space Agency, keeping you posted on European space activities. Please see our Privacy Notice: https://t.co/UkkEqaJOwd
 @ESA_fr (ESA France) - Suivez toute l'actu de l'ESA, l'Agence spatiale européenne
 @ESYudkowsky (Eliezer Yudkowsky ⏹️) - The original AI alignment person. Understanding the reasons it's difficult since 2003. This is my serious low-volume account. Follow @allTheYud for the rest.
@@ -462,7 +462,7 @@
 @ianmiles (Ian Miles Cheong) - I say the quiet part out loud. Hit the follow button if you can read this.
 @ibab (Igor Babuschkin) - Maybe the real ASI was the friends we made along the way. Co-founder @xAI, Research & Engineering
 @ICannot_Enough (James Stephenson) - @ElonMusk and I own Tesla (along with several other people).
-@ICEgov (U.S. Immigration and Customs Enforcement) - Protects America through criminal investigations and by enforcing immigration law to preserve national security and public safety. Privacy: https://t.co/ym5XoZMCUr
+@ICEgov (U.S. Immigration and Customs Enforcement) - Protects America through criminal investigations and by enforcing immigration law to preserve national security and public safety. https://t.co/rDI2IeFofc
 @icreatelife (Kris Kashtanova) - building supportive AI community | AI Evangelist @Adobe | 1st AI copyrights “Zarya of the Dawn”, "Rose Enigma" | my views
 @ID_AA_Carmack (John Carmack) - AGI at Keen Technologies, former CTO Oculus VR, Founder Id Software and Armadillo Aerospace
 @IDF (Israel Defense Forces) - Official IDF X account. We post real-time information and updates from the field.
@@ -799,7 +799,7 @@
 @PieterOmtzigt (Pieter Omtzigt) - Oud Kamerlid. Youtube: https://t.co/Zd67NdiVqp Oprichter https://t.co/XK0wVCa5Yh
 @PirateWires (Pirate Wires) - technology, politics, culture get the free daily newsletter 👉🏻https://t.co/s4YuTpiYVU
 @planet (Planet) - We see things from a different angle. 🛰️🕊️ Public Benefit Corporation on NYSE $PL
-@pmarca (Marc Andreessen 🇺🇸) - We’re gonna have a lotta robots helping us.
+@pmarca (Marc Andreessen 🇺🇸) - Penguin.
 @pmddomingos (Pedro Domingos) - Professor of computer science at UW and author of '2040' and 'The Master Algorithm'. Into machine learning, AI, and anything that makes me curious.
 @PM_ViktorOrban (Orbán Viktor) - Freedom fighter, Husband, Father, Grandfather, Prime Minister of Hungary 🇭🇺🇭🇺🇭🇺
 @PodSaveAmerica (Pod Save America) - A no-bullshit conversation about politics with hosts @jonfavs @danpfeiffer @tvietor08 & @jonlovett.
@@ -834,6 +834,7 @@
 @realDailyWire (Daily Wire) - Official X account of The Daily Wire.
 @realDonaldTrump (Donald J. Trump) - 45th & 47th President of the United States of America🇺🇸
 @realGeorgeHotz (George Hotz 🌑) - President @comma_ai. Founder @__tinygrad__
+@realhomerhickam (Homer Hickam) - Author, RocketBoys/OctoberSky & many others. Worked for NASA, VN Vet, dino hunter, scuba instr, & SpaceCampUSA board. Publisher, Homer Hickam Books
 @realJeremyCarl (Jeremy Carl) - Senior Fellow @claremontinst. Former Research Fellow @hooverinst and U.S. Dep. Asst. Sec. of the Interior. Longtime senior aide to George P. Shultz.
 @realMaalouf (Dr. Maalouf ‏) - 🚨Breaking News | ⚔️History 🗺️Geopolitics
 @RealRonHoward (Ron Howard) - Family Man & StorySmith Co-Founder of Imagine Entertainment
@@ -1119,7 +1120,7 @@
 @TheStoicEmperor (The Stoic Emperor) - Modern meditations. Wisdom for the world of today. These are new thoughts, not quotes.
 @ThierryBreton (Thierry Breton) - Entrepreneur. Teacher. Policy Maker 🇫🇷🇪🇺
 @thinkingwest (ThinkingWest) - Forming Minds. Rebuilding the West.
-@Thiss_Youu (This You?) - "We do a little trolling". DM or tag me for submissions or collabs
+@Thiss_Youu (This You?) - "We do a little trolling". DM or tag me for submissions or collabs. For donations: J5p2cxfbR9w9YAvkgPMAz7N47nbpw8dFHj8K1PSPheAN
 @ThomasSowell (Thomas Sowell Quotes) - I'm not Thomas Sowell, but I share his quotes and key topics in news & politics. Opinions are my own.
 @ThorBjornsson_ (Hafþór J Björnsson) - Hafþór Björnsson - hafthorjuliusbjornsson@gmail.com
 @Timbaland (Timbaland) - Grammy Winning super producer. Founder: / @Verzuzonline | @lightenergylabs
@@ -1246,12 +1247,11 @@
 @XBusiness (Business) - Get better at X. Get better at business.
 @xDaily (X Daily News) - Your #1 News source on everything 𝕏 + xAI | Contributors: @HXMnCK, @LohanSimpson @xUpdatesRadar and @swak_12 I | Hit Follow and sign up for notifications! 🔔
 @XData (Data) - X by the numbers
-@XDepartmant (X – Legal Department) - Official Copyright & Rights management account for @Support.
 @XDevelopers (Developers) - The voice of the X Dev team and your official source for updates, news, and events, related to the X API.
 @XEng (Engineering) - updates from our engineering team
 @XFreeze (X Freeze) - 
 @X_Futurist (The Architect) - Architect of the Future☄️
-@XGaming (@XGaming explores Arknights: Endfield) - An inside look at Talos-II, the frontier world of Arknights: Endfield.
+@XGaming (Gaming) - videogames
 @xiaosun86 (xiao sun) - 
 @xkcdComic (XKCD Comic) - XKCD comic feed with images and mobile friendly links. Unofficial, feed run by @dghubble
 @xkcd (Randall Munroe) - I draw the comic xkcd
