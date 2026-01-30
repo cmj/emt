@@ -369,9 +369,10 @@
 @FBI (FBI) - Official FBI X account. Submit tips at https://t.co/tGqFRcJykB. Public info may be used for authorized purposes: https://t.co/x6bfDUEYeJ.
 @fchollet (François Chollet) - Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.
 @FDRLST (The Federalist) - A web magazine of culture, entertainment, and politics. Be lovers of freedom and anxious for the fray.
+@FedorovMykhailo (Mykhailo Fedorov) - The Minister of Defense of Ukraine
 @fentasyl (~~datahazard~~) - Unincorporated Think Tank ~~ Focus: Govt Efficiency, Civil Rights, Victim Advocacy ~        ~   Subscriptions now open. Wallets at https://t.co/93jny1km4W
 @fermatslibrary (Fermat's Library) - A platform for illuminating academic papers. We annotate and share a paper every week. Save, annotate and share papers with anyone: https://t.co/0o2Pls3jmo
-@FFmpeg (FFmpeg) - The universal multimedia toolkit.
+@FFmpeg (FFmpeg) - The universal multimedia toolkit. A diverse, community-driven project; posts are by individuals.
 @Fidias0 (Fidias Panayiotou) - Non-Attached Member of the EU Parliament 🇪🇺
 @FischerKing64 (FischerKing) - Shall I at least set my lands in order...
 @FloydMayweather (Floyd Mayweather) - 
@@ -922,7 +923,7 @@
 @Santi_ABASCAL (Santiago Abascal 🇪🇸) - Presidente de VOX. Presidente de PATRIOTS. Diputado nacional.
 @sapinker (Steven Pinker) - Cognitive scientist at Harvard.
 @sara_spangelo (Sara Spangelo) - Sr. Director, @SpaceX, former CEO/Co-founder @SwarmInternet (acquired by @SpaceX in 2021)
-@satofishi (Chun) - Documenting my travel to every country/territory in the world following ISO 3166: 57% (142 of 249) on 1 planet/moon(s) done and counting…
+@satofishi (Chun) - Documenting my travel to every country/territory in the world following ISO 3166: 57% (143 of 249) on 1 planet/moon(s) done and counting…
 @satyanadella (Satya Nadella) - Chairman and CEO at Microsoft
 @SawyerMerritt (Sawyer Merritt) - EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.
 @SBA_Kelly (Kelly Loeffler) - 28th Administrator of the U.S. Small Business Administration (@SBAGov). Making Main Street Great Again.
@@ -993,6 +994,7 @@
 @sherylsandberg (Sheryl Sandberg) - founder of Lean In and Option B, ex-COO of Meta, mother of 5, wife of dazzling man, friend to many great women
 @ShitpostGate (ShitpostGateway) - Love $hitposting and posting whatever I want/Satire/memes/some personal stuff I like. Affiliate of @METAPCS
 @shivon (Shivon Zilis) - Artificial intelligence, biological intelligence, and whatever exists in between and beyond. Made in Canada.
+@_sholtodouglas (Sholto Douglas) - Scaling RL @AnthropicAI, ex @DeepMind - working towards intelligence too cheap to meter
 @shouchew (Shou Chew) - TikTok
 @sidgrao (Sid Rao) - prev head of advertising and safety @x
 @silviobrugada (Silvio Brugada) - 
@@ -1268,7 +1270,7 @@
 @yunta_tsai (Yun-Ta Tsai) - Sr. Staff Engineer @Tesla_AI
 @yusufdikec (Yusuf Dikec) - 2024 Paris Olimpiyatlarının kazananı Rahatlik ve Sadelik. TUR🇹🇷
 @zebulgar (delian) - space drugs and arms @vardaspace | village idiot/partner @foundersfund
-@zeeshanp_ (Zeeshan Patel) - @xAI | @grok imagine/multimodal | prev research @nvidia @apple @berkeley_ai | views my own
+@zeeshanp_ (Zeeshan Patel) - something new. prev @xAI imagine/multimodal, research @nvidia @apple @berkeley_ai | views my own
 @ZelenskyyUa (Volodymyr Zelenskyy / Володимир Зеленський) - President of Ukraine / Президент України
 @zeliu_ (Ze Liu) - @xAI (Grok Video Gen, Grok Vision, Grok Voice Mode, Grok3). ICCV 21 Marr Prize.
 @zephyr_z9 (Zephyr) - DMs open.
