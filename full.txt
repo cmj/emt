@@ -1030,6 +1030,7 @@
 @stats_feed (World of Statistics) - There are three kinds of lies: lies, damned lies, and statistics. Sister page of @engineers_feed
 @stat_sherpa (Stat Shepherd) - Data visualizations & insights 📊
 @StefanoErmon (Stefano Ermon) - AI Prof @Stanford | CEO & Cofounder @_inception_ai | Co-inventor of DDIM, FlashAttention, DPO, GAIL, and score-based/diffusion models
+@steipete (Peter Steinberger 🦞) - Polyagentmorous. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞
 @StephenClark1 (Stephen Clark) - Space Reporter @arstechnica, ex @SpaceflightNow | Reachable at Stephen.Clark@arstechnica.com
 @StephenM (Stephen Miller) - @WhiteHouse Deputy Chief of Staff for Policy and Homeland Security Advisor | 45 & 47
 @stephen_wolfram (Stephen Wolfram) - Creating ideas, technology, science, companies, books, ... #WolfLang #WolframPhysics #WolframAlpha #Mathematica @WolframResearch
@@ -1075,7 +1076,7 @@
 @TeslaCharging (Tesla Charging) - New Superchargers and all things charging
 @Teslaconomics (Teslaconomics) - I post my conscious thoughts w/ the world, live to the fullest, keep things simple, truthful & filter the noise. Long-term investor in Tesla, SpaceX, xAI/X.
 @teslaenergy (Tesla Energy) - Produce & store your own energy with Solar Panels, Solar Roof & Powerwall
-@teslaeurope (Tesla Europe & Middle East) - All things Tesla Europe & Middle East
+@teslaeurope (Tesla Europe & Middle East) - All things Tesla Europe, Middle East & Africa
 @Tesla_India (Tesla India) - Building a World Of Amazing Abundance
 @teslajapan (Tesla Japan) - 【テスラジャパン公式】 電気自動車やエナジー関連製品を通して、世界の持続可能エネルギーへのシフトを加速します。 テスラの試乗予約はこちら→ https://t.co/CLA7bOjLN7 テスラ家庭用蓄電池の設置相談はこちら→https://t.co/6ndyBAqjfH
 @TeslaLarry (Larry Goldberg) - Managing Partner, LumaSenti. Entrepreneur, co-inventor/co-author of the book “The Decision Model”.
