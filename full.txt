@@ -142,7 +142,7 @@
 @BenShapiroShow (The Ben Shapiro Show) - The @BenShapiro Show brings you all the news you need to know in the most fast-moving daily program in America. Ben brutally breaks down the culture. Mon-Fri.
 @berniemoreno (Bernie Moreno) - Husband, father, grandfather, businessman, and grateful my parents brought me to America. Republican US Senator from Ohio.
 @BG2Pod (Bg2 Pod) - Open Source bi-weekly convo w @altcap & @bgurley on all things tech, markets, investing & capitalism
-@bgurley (Bill Gurley) - Founder/President @p3institute Author: Runnin' Down a Dream, pre-order link below! VC @benchmark Trustee @sfiscience
+@bgurley (Bill Gurley) - Founder/President @p3institute Author: Runnin' Down a Dream, pre-order link below! Founder: Runnin' Down a Dream Foundation VC @benchmark Trustee @sfiscience
 @BhandarkarPawan (Pawan Bhandarkar) - Beeping and Booping @thinkymachines | Prev. @xAI
 @BigImpactHumans (LilHumansBigImpact) - • I have a smorgasbord of interests • Advancement of humanity 🚀• Sustainable Abundance 🫶🏼 Kardashev cutie ☀️ 💁🏼‍♀️
 @BillAckman (Bill Ackman) - CEO Pershing Square, Co-trustee @PershingSqFdn
@@ -345,7 +345,7 @@
 @dwarkesh_sp (Dwarkesh Patel) - Host of @dwarkeshpodcast https://t.co/3SXlu7fy6N https://t.co/4DPAxODFYi https://t.co/hQfIWdM1Un
 @dwr (Dan Romero) - Working on @tempo.
 @EagleEdMartin (Eagle Ed Martin) - Personal Account - Proud son of OG Ed Martin (RIP). In 2026, we “Fight Fight Fight” for USA and @POTUS Trump and celebrate @America250! Former Schlafly Eagle.
-@earthcurated (Earth) - Breathtaking Earth | Nature visuals + thoughts that expand your perspective. Curated daily for the curious mind. 🌍
+@earthcurated (Earth) - Breathtaking Earth | Nature visuals + thoughts that expand your perspective. Curated daily for the curious. 🌍
 @eastdakota (Matthew Prince 🌥) - A little bit geek, wonk, and nerd. Repeat entrepreneur, recovering lawyer, and former ski instructor. Co-founder & CEO of Cloudflare (NYSE: NET).
 @ebbyamir (Ebby Amir) - 🛠️ prev. @xAI, @google, @apple, founder, and more.
 @EconTalker (Russ Roberts) - President, Shalem College, Jerusalem (https://t.co/UANwVRygS3) Research Fellow @hooverinst https://t.co/AYz1OyVbAw, https://t.co/zxKUYrpCUR
@@ -357,7 +357,7 @@
 @EkosGenesis (ekos) - Ekos is a new universe inspired by the art & creations of Michael Turner & Geoff Johns and produced by Marvel Studios Founder, David Maisel.
 @eladgil (Elad Gil) - Entrepreneur & Investor
 @eldsjal (Daniel Ek) - Father, Principal @ PM - Trying to build things that matter | Founder of Spotify and Neko Health
-@eliebakouch (elie) - training llm's @PrimeIntellect (prev: @huggingface) anon feedback: https://t.co/JmMh7Sg3mL
+@eliebakouch (elie) - training llm @PrimeIntellect (prev: @huggingface) anon feedback: https://t.co/JmMh7Sg3mL
 @EliseStefanik (Elise Stefanik) - 👦🏻 Mom | 🇺🇸 NY21 Congresswoman & Chair of House GOP Leadership | ✍️ NYT Bestselling Author of POISONED IVIES 📖
 @ellev3n11 (Federico Cassano) - training composer @cursor_ai
 @emilmichael (Emil Michael) - Under Secretary of War for Research and Engineering. @USWREMichael (Official Account). Previously @Uber @Klout @Tellme
@@ -389,7 +389,7 @@
 @EvaLovesDesign (Elle Lookbook) - Style 👑 romantic, a touch of rustic, splash of whimsy, old world elegance 🏛️, a warm embrace with a glass of 🥂.    Me 🥐.   🖼️dm for credit or removal
 @evanjones (Evan Jones) - @standardecon, prev @xai, @x
 @evanspiegel (Evan Spiegel) - CEO @Snap
-@EvaVlaar (Eva Vlaardingerbroek) - SIGN THE SAVE EUROPE ACT NOW | “Shieldmaiden of the far right” | Commentator | Legal Philosopher LL.M. | Generation Remigration
+@EvaVlaar (Eva Vlaardingerbroek) - Founder of The @SaveEuropeAct | “Shieldmaiden of the far right” | Commentator | Legal Philosopher LL.M. | Generation Remigration
 @EvelinaHahne (Evelina Hahne) - Political Commentator. MSc in Industrial Engineering (Civilingenjör). Wife of @William_Hahne and soon mother of four!🇸🇪
 @EveOnline (EVE Online) - The game that science fiction warned us about! - Killscreen // For server status updates, please follow @EVE_Status 🚀
 @EVerastegui (Eduardo Verástegui) - ¡Viva Cristo Rey! ¡Viva la Virgen de Guadalupe! ¡Viva México! Productor de Bella, Little Boy, Sound of Freedom, Cabrini, Zero A.D. y próx. Sound of Freedom 2.
@@ -501,7 +501,7 @@
 @ibab (Igor Babuschkin) - Prev co-founder @xAI, Research & Engineering
 @ICannot_Enough (James Stephenson) - @ElonMusk and I own Tesla (along with several other people).
 @ICEgov (U.S. Immigration and Customs Enforcement) - Protects America through criminal investigations and by enforcing immigration law to preserve national security and public safety. https://t.co/rDI2IeFofc
-@icreatelife (Kris Kashtanova) - AI Creativity & Community about me: job: Sr. AI Evangelist @Adobe | 1st AI copyrights in the U.S. “Zarya of the Dawn”, “Rose Enigma” | my views
+@icreatelife (Kris Kashtanova) - AI creativity | job: Sr. AI Evangelist @Adobe | 1st AI copyrights in the U.S. “Zarya of the Dawn”, “Rose Enigma” | my views
 @ID_AA_Carmack (John Carmack) - AGI at Keen Technologies, former CTO Oculus VR, Founder Id Software and Armadillo Aerospace
 @IDF (Israel Defense Forces) - Official IDF X account. We post real-time information and updates from the field.
 @IfindRetards (Retard Finder) - I find retards and their posts on X.
@@ -564,13 +564,14 @@
 @johanknorberg (Johan Norberg) - Classical liberal, Senior Fellow at the Cato Institute. New book: Peak Human – "Could a history book be more timely?" (The Economist)
 @johnarnold (John Arnold) - Co-chair of Arnold Ventures. Reality is more nuanced than the headline.
 @JohnCornyn (Senator John Cornyn) - Proudly representing Texas in the U.S. Senate.
+@johnfederspiel (John Federspiel) - 
 @john (John Shahidi) - @happydad @fullsend @rangercut
 @johnkrausphotos (John Kraus) - Special Communications Assistant to the Administrator at NASA
 @JohnLeFevre (John LeFevre) - Signed contracts with Goldman Sachs and Simon & Schuster, and paid lawyers more than I made. NYT bestselling author of STRAIGHT TO HELL
 @JohnnaCrider1 (Johnna) - Shreveport Native ➡️ Baton Rouge ☀️ Artist & Author | Gardening • Painting • Photography Reading • Gems & Minerals 💎
 @JohnStossel (John Stossel) - To make sure you get our NEW video each week, sign up for video alerts here: https://t.co/tgSZwHuqq7
 @JonathanRoss321 (Jonathan Ross) - Double the World's AI Compute Chief Software Architect @ Nvidia, Founder of Groq, Creator of the LPU & Google's TPU
-@jondotvio (Jon Vio) - Digital artist, designer & director. ⚫️ Multi-planetary Identity Designer®
+@jondotvio (Jon Vio) - Multi-planetary Identity Designer® ⚫️ 3D artist.
 @JonErlichman (Jon Erlichman) - Ticker Take Founder. https://t.co/7XgWGjQNWy Inquiries: jonerlichman@viralnationtalent.com
 @Jon_Favreau (Jon Favreau) - actor/writer/director
 @jon (Jon Shulkin) - 
@@ -1268,7 +1269,7 @@
 @ValsAI (Vals AI) - Public LLM Evaluation // https://t.co/FjWabQY2jk @8vc @BloombergBeta @pearvc
 @VastoLorde95 (Aditya Paliwal) - 
 @veggie_eric (Eric Jiang) - Eat your veggies
-@venturetwins (Justine Moore) - Partner @a16z AI 🤖 and twin to @omooretweets | Investor in @elevenlabs, @bfl_ml, @hedra_labs, @krea_ai, @heyglif, @ShizukuAILabs, @wabi, @WaveFormsAI
+@venturetwins (Justine Moore) - Partner @a16z AI 🤖 and twin to @omooretweets | Investor in @elevenlabs, @bfl_ml, @hedra_labs, @krea_ai, @heyglif, @ShizukuAILabs, @wabi, @TownAI
 @victormustar (Victor M) - 🤗 Head of Product @huggingface
 @viewsoff (VIEW) - Discover whole world | Don't own content post | For credit or removal DM please.
 @VigilantFox (The Vigilant Fox 🦊) - Viral news clips. Exclusive reports. Built and led by a healthcare professional turned citizen journalist.
@@ -1286,7 +1287,7 @@
 @WallStreetMav (Wall Street Mav) - Finance, economics, news, memes. Follow and Tap the .... (🔔 +Notify)
 @wanghaofei (Haofei) - Engineering @ 𝕏
 @WarInstitute (Modern War Institute) - Official account of the Modern War Institute at West Point, a research center dedicated to the study of war and warfare. Gov't Org Follow & Likes ≠ Endorsement
-@War_Mapper (War Mapper) - Mapping conflicts. https://t.co/WqXe7GdEK7
+@War_Mapper (War Mapper) - Mapping and writing about conflicts. https://t.co/WqXe7GeczF
 @washghost1 (Washingtons ghost) - Stuff and things. Possibly a ghost. Vanilla villain. The everything account
 @Weaponization (Weaponization Committee) - Official account for the Select Subcommittee on the Weaponization of the Federal Government. Chairman @Jim_Jordan
 @WesleyHuntTX (Wesley Hunt) - Personal Account for Wesley Hunt | Army Veteran, West Point Graduate, Congressman TX-38. (American/Apache Pilot)
