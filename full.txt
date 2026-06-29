@@ -474,7 +474,7 @@
 @HeinrichKuttler (heiner) - ex @xAI, @InflectionAI, @AIatMeta, @DeepMind, @Google, @LMU_Muenchen, PhD math-ph. Opinions my own. (Can be yours for a small fee.)
 @hendrycks (Dan Hendrycks) - 
 @herandrews (Helen Andrews) - author @SentinelBooks, site https://t.co/MCWPKMEJjd
-@hexiang (Frank Hu) - @SpaceX @xAI: making @grok understand & imagine the world | Previously @GoogleDeepMind: Gemini & Imagen | SEA ← LA ← WZ
+@hexiang (Frank Hu) - @SpaceX @xAI: making @grok understand & imagine the universe | Previously @GoogleDeepMind: Gemini & Imagen | SEA ← LA ← WZ
 @heydave7 (Dave Lee) - Host of YouTube channel Dave Lee on Investing, TSLA investor since 2012, building with AI.
 @HGJart (黄光剑) - Digitle painter
 @HHSGov (HHS) - Official account of the U.S. Department of Health & Human Services | Follow @SecKennedy | For latest news follow @HHSResponse | MAHA 🇺🇸
@@ -1107,6 +1107,7 @@
 @stats_feed (World of Statistics) - There are three kinds of lies: lies, damned lies, and statistics. @Kalshi partner.
 @stat_shepherd (Stat Shepherd) - Data visualizations & insights 📊
 @StefanoErmon (Stefano Ermon) - AI Prof @Stanford | CEO & Cofounder @_inception_ai | Co-inventor of DDIM, FlashAttention, DPO, GAIL, and score-based/diffusion models
+@stepango (Stepan Goncharov) - Agents & DevProd & Supercomputing @xAI
 @StephenClark1 (Stephen Clark) - Space Reporter @arstechnica, ex @SpaceflightNow | Reachable at Stephen.Clark@arstechnica.com
 @StephenM (Stephen Miller) - @WhiteHouse Deputy Chief of Staff for Policy and Homeland Security Advisor | 45 & 47
 @stephen_wolfram (Stephen Wolfram) - Creating ideas, technology, science, companies, books, ... #WolfLang #WolframPhysics #WolframAlpha #Mathematica @WolframResearch
