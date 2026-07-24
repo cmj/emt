@@ -344,7 +344,7 @@
 @DurantQuotesBot (Will Durant (Quotes)) - Daily quotes from the historian of civilization!
 @durov2025 (Pavel Durov) - 
 @durov (Pavel Durov) - Founder, CEO at @telegram (2013), founder, ex-CEO of @vkontakte (2006), part-time troll.
-@dustinvtran (Dustin Tran) - at @elorianai, a multimodal neolab. ex-google ex-xai
+@dustinvtran (Dustin Tran) - at @elorianai. ex-google ex-xai
 @dvorahfr (Déborah) - Exhibition of my AI Illustrations and videos by Grok Imagine and Art of all kinds! Follow me for Art
 @dwarkesh_sp (Dwarkesh Patel) - Host of @dwarkeshpodcast https://t.co/3SXlu7fy6N https://t.co/4DPAxODFYi https://t.co/hQfIWdM1Un
 @dwr (Dan Romero) - Working on @tempo.
@@ -478,7 +478,7 @@
 @HeinrichKuttler (heiner) - ex @xAI, @InflectionAI, @AIatMeta, @DeepMind, @Google, @LMU_Muenchen, PhD math-ph. Opinions my own. (Can be yours for a small fee.)
 @hendrycks (Dan Hendrycks) - 
 @herandrews (Helen Andrews) - author @SentinelBooks, site https://t.co/MCWPKMEJjd
-@hexiang (Frank Hu) - @xAI: making @grok understand & imagine the universe | prev @GoogleDeepMind: gemini & imagen
+@hexiang (Frank Hu) - @SpaceXAI: making @grok understand & imagine the universe | prev @GoogleDeepMind: gemini & imagen
 @heydave7 (Dave Lee) - Host of YouTube channel Dave Lee on Investing, TSLA investor since 2012, building with AI.
 @HGJart (黄光剑) - Digitle painter
 @HHSGov (HHS) - Official account of the U.S. Department of Health & Human Services | Follow @SecKennedy | For latest news follow @HHSResponse | MAHA 🇺🇸
@@ -552,6 +552,7 @@
 @jeffreyweichsel (Jeffrey Weichsel) - 
 @jeffskoll (Jeffrey Skoll) - Founder/Chairman Participant Media, Skoll Foundation, Capricorn Investment Group, Jeff Skoll Group, TPG Rise Fund, Partner Monumental Sports Entertainment
 @jekbradbury (James Bradbury) - Compute at @AnthropicAI! Previously JAX, TPUs, and LLMs at Google, MetaMind/@SFResearch, @Stanford Linguistics, @Caixin.
+@JensenHuang (Jensen Huang) - Founder and CEO of NVIDIA.
 @JeremyDBoreing (Jeremy Boreing) - Host of The Jeremy Boreing Show Series Creator: The Pendragon Cycle, Co-Founder of @realDailyWire and @JeremysRazors.
 @jespow (Jesse Powell) - Co-Founder & Chairman @KrakenFX Founder @Verge_Arts Former pro player @Wizards_Magic #VirtualGoods🎮 Peddler since 2001 #NFT🖼️ Hoarder #Bitcoin Enthusiast
 @JesseBWatters (Jesse Watters) - “The Five” & “Jesse Watters Primetime” on Fox News Channel #1 NYT Best Selling Author of “How I Saved The World” and “Get It Together”
@@ -795,7 +796,7 @@
 @naval (Naval) - Incompressible
 @nayibbukele (Nayib Bukele) - Philosopher King
 @ndstudio (National Design Studio) - Modernizing the interfaces that serve everyday citizens
-@neiltyson (Neil deGrasse Tyson) - Astrophysicist https://t.co/sujhGiva2J
+@neiltyson (Neil deGrasse Tyson) - Astrophysicist https://t.co/sujhGivHSh
 @nelkboys (Nelk Boys) - @happydad @fullsend
 @neontaster (Noam Blum) - The neontaster || Cohost of @ambXover || also see @neon2ster || עם ישראל חי
 @Ne_pas_couvrir (Yuri Bezmenov's Ghost) - The broad ideology of Marxism has killed roughly 100 million people. It's ghoulish and stupid. Classical liberalism actually works.
