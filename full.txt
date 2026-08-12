@@ -236,6 +236,7 @@
 @CNSAWatcher (CNSA Watcher) - CNSA news and updates on missions of Tiangong space station, Shenzhou crewed spaceships, Tianwen Zhurong Mars Rover, future CZ9 rocket, lunar stations, etc. Fan
 @CNviolations (Community Notes & Violations) - I'm the guy you go to for brutal community notes and violations / DM submissions
 @CoffeewClassics (CoffeeWithTheClassics) - Make Reading Great Literature a Daily Ritual
+@cognition (Cognition) - Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG
 @CollinRugg (Collin Rugg) - Co-Owner of Trending Politics | Investor | American 🇺🇸
 @collision (John Collison) - Co-founder of @stripe.
 @CommunityNotes (Community Notes) - Empowering users to create a better-informed world. We're open source and data is publicly available: https://t.co/Te3IjR10Ix Q? Reply/DM
