@@ -253,7 +253,6 @@
 @cstanley (Christopher Stanley) - {title: "Security Engineering", company: 〚"@SpaceX", "@X", “@xAI”〛, education: "M.S Computer Science // Cyber Security"}
 @cthagod (Charlamagne Tha God) - 
 @culturaltutor (The Cultural Tutor) - You can't step in the same river once. Paperback OUT NOW ↓
-@CuriosityonX (Curiosity) - Curiosity-driven content across science, history, and culture. Sharing knowledge and stories that spark curiosity. ct: curiosityonx@gmail.com Sub for only $3⤴️.
 @cursor_ai (Cursor) - Coding agent for building ambitious software
 @cyb3rgam3r420 (Gamer) - 
 @cybertruck (Cybertruck) - 📐
@@ -438,7 +437,7 @@
 @Geiger_Capital (Geiger Capital) - Markets, Economics, Politics Personal Views. Not Investment Advice.
 @GenFlynn (General Mike Flynn) - Faith, family, freedom, Former National Security Advisor to 45th POTUS. 🏄🏻‍♂️ 🌊 Subscribe to my Substack: https://t.co/TsoI4xdEzu
 @geoffreyhinton (Geoffrey Hinton) - deep learning
-@Gfilche (Gali) - host of HyperChange⚡️
+@Gfilche (Gali) - Host of HyperChange⚡️Live-streaming my Tesla drive itself
 @ggreenwald (Glenn Greenwald) - Journalist; Author; Columnist, @Folha; Founder: @TheInterceptBr; Co-Founder: @FreedomofPress, @theintercept; @idm_org; @abrigo_hope. Former Lawyer. Vegan.
 @GigaBasedDad (Giga Based Dad) - Unapologetically Christian ✝️ - Husband and Father. Rancher. Homesteader. Raising Cows, Horses, Chickens, and Children.
 @gigadgets_ (GiGadgets) - We share some cool gadgets, tech, and occasionally good laughs. gigadgetstech@gmail
@@ -516,7 +515,7 @@
 @iamyesyouareno (iamyesyouareno) - everything you need to know. shaper of narratives.
 @IanCarrollShow (Ian Carroll) - Follow the money. Seek the truth. Do your own research. Not an expert in anything but sarcasm. YouTube- @iancarrollshow
 @ianmiles (Ian Miles) - I say the quiet part out loud.
-@iAnonPatriot (American AF 🇺🇸) - America First • TSLA & Silver investor. ——— just a dude with an IPhone ✝️🔥
+@iAnonPatriot (American AF 🇺🇸) - Waking people up to the lies they don’t want to see — Followed by the GOAT @elonmusk America First. Truth over narrative. ✝️🔥
 @ibab (Igor Babuschkin) - CEO & Co-Founder @river_ai_inc. Previously @xAI, Research & Engineering
 @ICannot_Enough (James Stephenson) - @ElonMusk and I own Tesla (along with several other people).
 @ICEgov (U.S. Immigration and Customs Enforcement) - Protects America through criminal investigations and by enforcing immigration law to preserve national security and public safety. https://t.co/rDI2IeFofc
@@ -683,7 +682,7 @@
 @lm_zheng (Lianmin Zheng) - Inference @meta | Prev: Engineer @xAI, Ph.D. @UCBerkeley, Co-founder @lmsysorg
 @LockheedMartin (Lockheed Martin) - We specialize in defense tech, connecting customers with integrated solutions to ensure America and its allies can achieve peace through strength.
 @logangraham (Logan Graham) - Head of the Frontier Red Team @anthropicai. 🌎 Make things radically good.
-@lolpython (Jake) - currently member of technical staff @xai (prev core technologies @discord) shitposts are my own and don't represent my past, present or future employers
+@lolpython (Jake) - supercomputing @xai (prev core technologies @discord) shitposts are my own and don't represent my past, present or future employers
 @LondonBreed (London Breed) - 45th Mayor of the City and County of San Francisco.
 @longmier (Ben Longmier) - CEO @ambrosiaenergy
 @lrocket (Tom Mueller) - Liquid rocket engine development, racecar driver, grandfather, CEO and CTO at Impulse https://t.co/XBThLja8eL
@@ -718,6 +717,7 @@
 @MartinViecha (Martin Viecha) - Former IR @Tesla
 @MartyTheElder (Marty O'Donnell) - Father, Grandfather, Composer | Running for Congress (NV-03) to make one good job enough to raise a family | Hold the Line, Keep the Faith, Finish the Fight
 @MaryTilesTexas (Mary Tiles Texas) - I work Construction👷🏼‍♀️I'm the girl who tells you to Learn a Trade🛠️| WWII history fanatic🪖Full work videos under highlights tab ⬇️
+@MAstronomers (Curiosity) - Curiosity-driven content across science, history, and culture. Sharing knowledge and stories that spark curiosity. ct: curiosityonx@gmail.com Sub for only $3⤴️.
 @Math_files (Math Files) - Life is nonlinear. So handle it using Math.
 @mattdorsey (Matt Dorsey) - Member, San Francisco Board of Supervisors, District 6. Democrat; #recovery community member and advocate. 🇺🇸🏳️‍🌈
 @matteosalvinimi (Matteo Salvini) - Vicepremier e ministro delle Infrastrutture e dei Trasporti. Leader della Lega 🇮🇹
@@ -841,7 +841,7 @@
 @Not_the_Bee (Not the Bee) - What a time to 🐝 alive.
 @NotTomBrown (Tom Brown) - Co-founder and Chief Compute Officer @AnthropicAI
 @NRO_gov (NRO) - Official X account of the National Reconnaissance Office—Innovative Overhead Intelligence Systems for National Security. Follows/RTs are not endorsements.
-@ns123abc (NIK) - non technical member of technical staff Independent AI reporter: research, insights & breaking news
+@ns123abc (NIK) - Independent Investigative Journalist AI / semi research, insights & breaking news
 @NTSB_Newsroom (NTSB Newsroom) - NTSB_Newsroom is the official account of NTSB Media Relations, providing timely and official information about newsworthy NTSB activities.
 @nvidianewsroom (NVIDIA Newsroom) - The official newsroom for NVIDIA. Innovation delivered daily.
 @nvidia (NVIDIA) - The official handle for NVIDIA. Blog: https://t.co/JAn5eKOTBT Support: https://t.co/6ln5FVnA2o All our social media: https://t.co/Uc56dL57Dh
@@ -1387,7 +1387,7 @@
 @zeliu_ (Ze Liu) - @xAI (Grok Video Gen, Grok Vision, Grok Voice Mode, Grok3). ICCV 21 Marr Prize.
 @zephyr_z9 (Zephyr) - AI & Chips | Not Investment Advice | DYOD
 @zerohedge (zerohedge) - 
-@zhu_hanqing666 (Hanqing Zhu) - RL Science & Coding RL Bigrun @xai | Grok 4.5 prev. @UTAustin @GoogleDeepMind @AIatMeta Theory-driven ML, efficient in practice Views my own
+@zhu_hanqing666 (Hanqing Zhu) - RL Science & Coding RL Bigrun @xai | Grok 4.5, 4.6 prev. @UTAustin @GoogleDeepMind @AIatMeta Theory-driven ML, efficient in practice Views my own
 @ZiaYusufUK (Zia Yusuf) - Shadow Home Secretary, Reform UK 🇬🇧
 @ziggyfro (Daniel Frohlich) - Love life, laughs, family, space, rockets, gadgets, things that fly, technology, metric system, good food, purple, dad jokes. USC / SpaceX / Boring. mIRC:X-Fly
 @ZihangDai (Zihang Dai) - 
