@@ -803,7 +803,6 @@
 @NASASolarSystem (NASA Solar System) - Join us as we explore the worlds of our solar system.
 @NASASpaceflight (NSF - NASASpaceflight.com) - Official Account of NSF. News, videos, and community for spaceflight enthusiasts since 2005. NSF is not affiliated with NASA, initials used with permission.
 @NASAWebb (NASA Webb Telescope) - The Official *NASA* Webb X account. The world's most powerful space telescope. Launched: Dec. 25, 2021. First images revealed: July 12, 2022.
-@nataliegwinters (Natalie Winters) - White House Correspondent. Bannon’s War Room Co-Host.
 @natecavanaugh (Nate Cavanaugh) - Co-Founder @Special
 @Nate_Esparza (Nate Esparza) - Ads Product @SpaceXAI | CU-Boulder Alumni Board | Opinions are my own
 @natemcgrady (Nate McGrady) - engineering @vercel | prev: product @twitter/@x, cyber warfare @usnavy
