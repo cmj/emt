@@ -1270,6 +1270,7 @@
 @Timcast (Tim Pool) - Host of Timcast IRL And CEO https://t.co/05eFrFNCuW Host of The Culture War Podcast at https://t.co/mtMhgpJnKO
 @tim_cook (Tim Cook) - Apple Executive Chairman
 @TimSheehyMT (Tim Sheehy) - Servant leader, father, husband and Montana’s U.S. Senator 🇺🇸
+@TimSweeneyEpic (Tim Sweeney) - Epic Games founder and CEO.
 @timzaman (Tim Zaman) - Frontier Clusters at OpenAI. Formerly DeepMind, Tesla AI, X, NVIDIA.
 @tingchenai (Ting Chen) - building multimodal AGI
 @__tinygrad__ (the tiny corp) - We make tinygrad; sell tinybox for the GPU middle class. Our mission is to commoditize the petaflop.
