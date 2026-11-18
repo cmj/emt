@@ -66,7 +66,7 @@
 @anabology (anabology) - co-founder https://t.co/6WejBPT4xz (bioelectricity; at-home MRI) // https://t.co/j5dZ76713f + https://t.co/TaekXhoJm7 // building Claudia: https://t.co/DlIhFS1sZX
 @anammostarac (Ana Mostarac) - 
 @Anc_Aesthetics (Aesthetica) - Artist | Aesthetics | History - In the Arena
-@Andercot (Andrew Côté) - engineering physicist, writes about deep tech, physics, energy, sci fi and whatever. founder @hyperstition_x produces @deeptechweek
+@Andercot (Andrew Côté) - engineering physicist, writes about deep tech, physics, energy, sci fi and whatever. founder @hyperstition_x + @hyperstition_vc + @deeptechweek
 @andrewrbell (Andrew Bell) - 
 @andrewrsorkin (Andrew Ross Sorkin) - @NYTimes Columnist/Editor & @SquawkCNBC Co-Anchor. Author, “1929” + “Too Big To Fail”. Founder, @DealBook. CoCreator, BILLIONS @Showtime. Proud Dad.
 @AndrewYNg (Andrew Ng) - Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs
@@ -364,7 +364,7 @@
 @dwarkesh_sp (Dwarkesh Patel) - Host of @dwarkeshpodcast https://t.co/3SXlu7fy6N https://t.co/4DPAxODFYi https://t.co/hQfIWdM1Un
 @dwr (Dan Romero) - Working on @tempo.
 @EagleEdMartin (Eagle Ed Martin) - Fellow, Center for Renewing America @amrenewctr “Attorney for Good Ones” Former DC US Attorney, ADAG, US Pardon Attorney
-@earthcurated (Earth) - Planet Earth, from every angle. 🌍 Nature • Wildlife • Travel • Discovery • Art
+@earthcurated (Earth) - One planet. Millions of perspectives
 @eastdakota (Matthew Prince 🌥) - A little bit geek, wonk, and nerd. Repeat entrepreneur, recovering lawyer, and former ski instructor. Co-founder & CEO of Cloudflare (NYSE: NET).
 @ebbyamir (Ebby Amir) - 🛠️ prev. @xAI, @google, @apple, founder, and more.
 @EconTalker (Russ Roberts) - President, Shalem College, Jerusalem (https://t.co/UANwVRygS3) Research Fellow @hooverinst https://t.co/AYz1OyVbAw, https://t.co/zxKUYrpCUR
@@ -493,7 +493,7 @@
 @HawleyMO (Josh Hawley) - Follower of Jesus, constitutional lawyer, husband to Erin, Dad to Elijah, Blaise and Abigail, U.S. Senator for Missouri
 @heavypulp (Heavy Pulp) - Freshly Squeezed Visual Amalgamations. Custom work: pulp@heavypulp.media EVERYTHING IS COMPUTER. BUT COMPUTER ISN'T EVERYTHING.
 @HeidiBriones (Heidi) - writer ✍🏻 if i make you laugh, you owe me $1 💸 heidi@mail.grokbot.com
-@hendrycks (Dan Hendrycks) - https://t.co/yYCig8ektl
+@hendrycks (Dan Hendrycks) - • Center for AI Safety Director • Previously xAI, Scale, Meta AI advisor • GELU/MMLU/MATH/HLE • PhD in AI
 @herandrews (Helen Andrews) - author, site https://t.co/MCWPKMEbtF
 @hexiang (Hexiang (Frank) Hu) - Unemployed | @xAI: @grok multimodal, imagine | prev @GoogleDeepMind: gemini & imagen
 @HGJart (黄光剑) - Digitle painter
@@ -557,7 +557,7 @@
 @jamesdouma (jimmah) - deep learning dork
 @JamesEsses (James Esses) - Therapist, Campaigner, Conservative Councillor, Founder of Just Therapy https://t.co/S2inNGBxo9. For therapy with me: https://t.co/jxHoPerMOi. Opinions my own!
 @JamesLucasIT (James Lucas) - Beauty is truth, truth beauty; that is all ye know on earth, and all ye need to know.
-@JamesOKeefeIII (James O'Keefe) - Guerrilla Journalist. CEO of @Okeefemedia Group, Founder, Project Veritas (CEO ‘09-‘22) SIGNAL: 9144919395 Subscribe to OMG Below:
+@JamesOKeefeIII (James O'Keefe) - Guerrilla Journalist. CEO of @Okeefemedia Group, Founder, Project Veritas (CEO ‘09-‘22) SIGNAL: 9144919395 Watch my newest episode on My Price Is My Life:
 @jamiesongreer (Jamieson Greer) - 
 @JaneidyEve (Evelyn Janeidy) - Write about NASA & SpaceX at Cosmic Chronicles | Singer-Songwriter | ICONIC app | Consciousness arose miraculously, live passionately. ♡
 @JaredBirchall (Jared Birchall) - 
@@ -872,7 +872,7 @@
 @OfficialPCMR (PC Master Race - PCMR) - PC Master Race. The official X of the #PCMR. The biggest PC gamer and enthusiasts community in the world. Since 2011. Run by @PedroPCMR
 @officialsammyuk (Sammy Woodhouse) - Author ‘Just A Child’ • Exposed UK Rape Gangs & Government Corruption • Policy & Law Influencer • Led MP Rupert Lowes Rape Gang Inquiry • Restore Britain.
 @Oilfield_Rando (Oilfield Rando) - Creator of @Morse_Research. “The internet’s favorite clown” -Grok. Subscribe for $1.
-@OmarSAlolama (Omar Sultan AlOlama) - ‏‏‏‏‏‏ وزير دولة للاقتصاد الرقمي والذكاء الاصطناعي وتطبيقات العمل عن بعد Minister of State for Digital Economy, A.I. and Remote Work Applications
+@OmarSAlolama (Omar Sultan AlOlama) - وزير دولة للذكاء الاصطناعي Minister of State for Artificial Intelligence
 @omead (Omead Afshar) - 🤠
 @OnLocals (Locals.com - 🏴‍☠️ $RUM) - Empowering creators to be independent
 @OpenMoonAI (OpenMoon) - Open Moon. Not an app - the start of an agent civilization. Wallets,Robots,Courts, GDP. Day 1.
@@ -914,7 +914,6 @@
 @PhysicsWorld (Physics World) - News, views and information for the global physics community
 @PhysInHistory (Physics In History) - Photos from the history of physics | © with mentioned Archives. Shared for educational purposes. Einstein portrait © Ullsteinbild. Subscribe for curated papers.
 @physorg_com (Phys.org) - Science news, Technology news. Physics, Space, Biology, Chemistry, Engineering, Math, Electronics, Nanotechnology, Materials, Computers, Health, Earth Science.
-@PicturesFoIder (non aesthetic things) - viral media and news from around the world. 📧 business inquiries: media@fixated.com
 @PierrePoilievre (Pierre Poilievre) - @CPC_HQ leader, fighting to restore Canada’s Promise - Chef du @PCC_HQ, déterminé à restaurer la promesse du Canada
 @PieterOmtzigt (Pieter Omtzigt) - Oud Kamerlid. Youtube: https://t.co/Zd67NdiVqp Oprichter https://t.co/XK0wVCa5Yh
 @PirateWires (Pirate Wires) - technology, politics, culture get the free daily newsletter 👉🏻https://t.co/s4YuTpiYVU
@@ -1231,7 +1230,7 @@
 @TeslaSI (Tesla Super Intelligence) - 
 @Tesla (Tesla) - Electric vehicles, giant batteries & solar, SI & robotics
 @Tesmanian_com (Tesmanian.com) - Tesla, SpaceX, Elon Musk and related News+Info.
-@tetsuoai (tetsuo) - C and Assembly • Grok • @tetsuocorp • @a_g_e_n_c //: 👾 https://t.co/ursRJQWUSA
+@tetsuoai (tetsuo) - 
 @TexasLindsay (TexasLindsay™) - JMFF Fellow | Free Speech Cognoscente | See Highlights Tab for #TwitterFiles Coverage | Auburn University Alum | War Eagle 🦅🇺🇸
 @thackerpd (Paul D. Thacker) - Journalist; Former Investigator U.S. Senate; Former Safra Ethics Center, Harvard.
 @thatsKAIZEN (Kaizen D. Asiedu) - Clear Thinker. Harvard ‘12, Emmy Winner. Oops, made ya think 🧠
